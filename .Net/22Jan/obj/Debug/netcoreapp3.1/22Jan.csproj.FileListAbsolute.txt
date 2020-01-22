@@ -1,0 +1,11 @@
+C:\Users\erau\Desktop\Github\MSSA\.Net\22Jan\bin\Debug\netcoreapp3.1\22Jan.exe
+C:\Users\erau\Desktop\Github\MSSA\.Net\22Jan\bin\Debug\netcoreapp3.1\22Jan.deps.json
+C:\Users\erau\Desktop\Github\MSSA\.Net\22Jan\bin\Debug\netcoreapp3.1\22Jan.runtimeconfig.json
+C:\Users\erau\Desktop\Github\MSSA\.Net\22Jan\bin\Debug\netcoreapp3.1\22Jan.runtimeconfig.dev.json
+C:\Users\erau\Desktop\Github\MSSA\.Net\22Jan\bin\Debug\netcoreapp3.1\22Jan.dll
+C:\Users\erau\Desktop\Github\MSSA\.Net\22Jan\bin\Debug\netcoreapp3.1\22Jan.pdb
+C:\Users\erau\Desktop\Github\MSSA\.Net\22Jan\obj\Debug\netcoreapp3.1\22Jan.csprojAssemblyReference.cache
+C:\Users\erau\Desktop\Github\MSSA\.Net\22Jan\obj\Debug\netcoreapp3.1\22Jan.AssemblyInfoInputs.cache
+C:\Users\erau\Desktop\Github\MSSA\.Net\22Jan\obj\Debug\netcoreapp3.1\22Jan.AssemblyInfo.cs
+C:\Users\erau\Desktop\Github\MSSA\.Net\22Jan\obj\Debug\netcoreapp3.1\22Jan.dll
+C:\Users\erau\Desktop\Github\MSSA\.Net\22Jan\obj\Debug\netcoreapp3.1\22Jan.pdb
