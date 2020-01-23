@@ -70,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erau\\Desktop\\Term1\\C#\\21Jan\\21Jan.csproj",
+      "projectUniqueName": "C:\\Users\\erau\\Desktop\\Github\\MSSA\\.Net\\21Jan\\21Jan.csproj",
       "projectName": "21Jan",
-      "projectPath": "C:\\Users\\erau\\Desktop\\Term1\\C#\\21Jan\\21Jan.csproj",
+      "projectPath": "C:\\Users\\erau\\Desktop\\Github\\MSSA\\.Net\\21Jan\\21Jan.csproj",
       "packagesPath": "C:\\Users\\erau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erau\\Desktop\\Term1\\C#\\21Jan\\obj\\",
+      "outputPath": "C:\\Users\\erau\\Desktop\\Github\\MSSA\\.Net\\21Jan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erau\\AppData\\Roaming\\NuGet\\NuGet.Config",

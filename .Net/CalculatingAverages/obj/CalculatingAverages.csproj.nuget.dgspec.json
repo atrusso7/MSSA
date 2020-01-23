@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erau\\Desktop\\Github\\MSSA\\.Net\\21Jan\\21Jan.csproj": {}
+    "C:\\Users\\erau\\Desktop\\Github\\MSSA\\.Net\\CalculatingAverages\\CalculatingAverages.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erau\\Desktop\\Github\\MSSA\\.Net\\21Jan\\21Jan.csproj": {
+    "C:\\Users\\erau\\Desktop\\Github\\MSSA\\.Net\\CalculatingAverages\\CalculatingAverages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erau\\Desktop\\Github\\MSSA\\.Net\\21Jan\\21Jan.csproj",
-        "projectName": "21Jan",
-        "projectPath": "C:\\Users\\erau\\Desktop\\Github\\MSSA\\.Net\\21Jan\\21Jan.csproj",
+        "projectUniqueName": "C:\\Users\\erau\\Desktop\\Github\\MSSA\\.Net\\CalculatingAverages\\CalculatingAverages.csproj",
+        "projectName": "CalculatingAverages",
+        "projectPath": "C:\\Users\\erau\\Desktop\\Github\\MSSA\\.Net\\CalculatingAverages\\CalculatingAverages.csproj",
         "packagesPath": "C:\\Users\\erau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erau\\Desktop\\Github\\MSSA\\.Net\\21Jan\\obj\\",
+        "outputPath": "C:\\Users\\erau\\Desktop\\Github\\MSSA\\.Net\\CalculatingAverages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erau\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,12 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "System.ValueTuple": {
-              "target": "Package",
-              "version": "[4.5.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
