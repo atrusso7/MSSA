@@ -1,0 +1,11 @@
+C:\Users\erau\Desktop\Github\MSSA\.Net\QuadraticEquations\bin\Debug\netcoreapp3.1\QuadraticEquations.exe
+C:\Users\erau\Desktop\Github\MSSA\.Net\QuadraticEquations\bin\Debug\netcoreapp3.1\QuadraticEquations.deps.json
+C:\Users\erau\Desktop\Github\MSSA\.Net\QuadraticEquations\bin\Debug\netcoreapp3.1\QuadraticEquations.runtimeconfig.json
+C:\Users\erau\Desktop\Github\MSSA\.Net\QuadraticEquations\bin\Debug\netcoreapp3.1\QuadraticEquations.runtimeconfig.dev.json
+C:\Users\erau\Desktop\Github\MSSA\.Net\QuadraticEquations\bin\Debug\netcoreapp3.1\QuadraticEquations.dll
+C:\Users\erau\Desktop\Github\MSSA\.Net\QuadraticEquations\bin\Debug\netcoreapp3.1\QuadraticEquations.pdb
+C:\Users\erau\Desktop\Github\MSSA\.Net\QuadraticEquations\obj\Debug\netcoreapp3.1\QuadraticEquations.csprojAssemblyReference.cache
+C:\Users\erau\Desktop\Github\MSSA\.Net\QuadraticEquations\obj\Debug\netcoreapp3.1\QuadraticEquations.AssemblyInfoInputs.cache
+C:\Users\erau\Desktop\Github\MSSA\.Net\QuadraticEquations\obj\Debug\netcoreapp3.1\QuadraticEquations.AssemblyInfo.cs
+C:\Users\erau\Desktop\Github\MSSA\.Net\QuadraticEquations\obj\Debug\netcoreapp3.1\QuadraticEquations.dll
+C:\Users\erau\Desktop\Github\MSSA\.Net\QuadraticEquations\obj\Debug\netcoreapp3.1\QuadraticEquations.pdb
