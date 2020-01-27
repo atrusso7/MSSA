@@ -9,3 +9,14 @@ C:\Users\erau\Desktop\Github\MSSA\.Net\CalculatingAverages\obj\Debug\netcoreapp3
 C:\Users\erau\Desktop\Github\MSSA\.Net\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.AssemblyInfo.cs
 C:\Users\erau\Desktop\Github\MSSA\.Net\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.dll
 C:\Users\erau\Desktop\Github\MSSA\.Net\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.pdb
+C:\Users\Antho\Desktop\MSSA\.Net\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.exe
+C:\Users\Antho\Desktop\MSSA\.Net\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.deps.json
+C:\Users\Antho\Desktop\MSSA\.Net\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\.Net\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\.Net\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.dll
+C:\Users\Antho\Desktop\MSSA\.Net\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.pdb
+C:\Users\Antho\Desktop\MSSA\.Net\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\.Net\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\.Net\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\.Net\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.dll
+C:\Users\Antho\Desktop\MSSA\.Net\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.pdb

@@ -115,43 +115,41 @@ namespace _21Jan
             double g10 = Convert.ToDouble(ReadLine());
             WriteLine(ClassAverage(g1, g2, g3, g4, g5, g6, g7, g8, g9, g10));
 
-            //Monte Carlo      
-
             //Fibonacci sequence
-            //WriteLine("---Fibonacci Sequence Initiated---");
-            //WriteLine("\n\nEnter n: ");
-            //int n = Convert.ToInt32(ReadLine());
-            //WriteLine("The result is: " + Fibonacci(n));
+            WriteLine("---Fibonacci Sequence Initiated---");
+            WriteLine("\n\nEnter n: ");
+            int n = Convert.ToInt32(ReadLine());
+            WriteLine("The result is: " + Fibonacci(n));
 
             //Calling evenOdd method to check if a number is even
-            //WriteLine("Check if your number is odd or even");
-            //WriteLine("-----------------------------------");
-            //WriteLine("---------Enter the number----------");
-            //int num1 = Convert.ToInt32(ReadLine());
-            //WriteLine(evenOdd(num1));
+            WriteLine("Check if your number is odd or even");
+            WriteLine("-----------------------------------");
+            WriteLine("---------Enter the number----------");
+            int num1 = Convert.ToInt32(ReadLine());
+            WriteLine(evenOdd(num1));
 
             //Using triArea method to find the area of a triangle
-            //Write("----------------------------------\n");
-            //Write("--Find the area of a Triangle /\\--\n");
-            //Write("----------------------------------\n");
-            //Write("\n\nEnter the length of all three side...\n");
-            //Write("\nFirst: \n");
-            //double side1 = Convert.ToDouble(ReadLine());
-            //Write("Second: \n");
-            //double side2 = Convert.ToDouble(ReadLine());
-            //Write("Third: \n");
-            //double side3 = Convert.ToDouble(ReadLine());
-            //Write("\n\nThe area of your triangle is: " + triAreaTotal(side1, side2, side3));
+            Write("----------------------------------\n");
+            Write("--Find the area of a Triangle /\\--\n");
+            Write("----------------------------------\n");
+            Write("\n\nEnter the length of all three side...\n");
+            Write("\nFirst: \n");
+            double side1 = Convert.ToDouble(ReadLine());
+            Write("Second: \n");
+            double side2 = Convert.ToDouble(ReadLine());
+            Write("Third: \n");
+            double side3 = Convert.ToDouble(ReadLine());
+            Write("\n\nThe area of your triangle is: " + triAreaTotal(side1, side2, side3));
 
             //Calculating the sum using a method and two numbers
-            //Write("-------------------------------------------------\n");
-            //Write("--Function to calculate the sum of two numbers:--\n"); //\n means Line Feed
-            //Write("-------------------------------------------------\n");
-            //Write("Enter a number: ");
-            //int n1 = Convert.ToInt32(ReadLine());
-            //Write("Enter another number: ");
-            //int n2 = Convert.ToInt32(ReadLine());
-            //WriteLine("\nThe sum of the two numbers is: " + Sum(n1, n2));
+            Write("-------------------------------------------------\n");
+            Write("--Function to calculate the sum of two numbers:--\n"); //\n means Line Feed
+            Write("-------------------------------------------------\n");
+            Write("Enter a number: ");
+            int n1 = Convert.ToInt32(ReadLine());
+            Write("Enter another number: ");
+            int n2 = Convert.ToInt32(ReadLine());
+            WriteLine("\nThe sum of the two numbers is: " + Sum(n1, n2));
         }
     }
 }

@@ -1,0 +1,11 @@
+C:\Users\Antho\Desktop\MSSA\.Net\Lab3C\Lab3C\bin\Debug\netcoreapp3.1\Lab3C.exe
+C:\Users\Antho\Desktop\MSSA\.Net\Lab3C\Lab3C\bin\Debug\netcoreapp3.1\Lab3C.deps.json
+C:\Users\Antho\Desktop\MSSA\.Net\Lab3C\Lab3C\bin\Debug\netcoreapp3.1\Lab3C.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\.Net\Lab3C\Lab3C\bin\Debug\netcoreapp3.1\Lab3C.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\.Net\Lab3C\Lab3C\bin\Debug\netcoreapp3.1\Lab3C.dll
+C:\Users\Antho\Desktop\MSSA\.Net\Lab3C\Lab3C\bin\Debug\netcoreapp3.1\Lab3C.pdb
+C:\Users\Antho\Desktop\MSSA\.Net\Lab3C\Lab3C\obj\Debug\netcoreapp3.1\Lab3C.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\.Net\Lab3C\Lab3C\obj\Debug\netcoreapp3.1\Lab3C.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\.Net\Lab3C\Lab3C\obj\Debug\netcoreapp3.1\Lab3C.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\.Net\Lab3C\Lab3C\obj\Debug\netcoreapp3.1\Lab3C.dll
+C:\Users\Antho\Desktop\MSSA\.Net\Lab3C\Lab3C\obj\Debug\netcoreapp3.1\Lab3C.pdb

@@ -9,3 +9,14 @@ C:\Users\erau\Desktop\Term1\C#\21Jan\obj\Debug\netcoreapp3.1\21Jan.AssemblyInfoI
 C:\Users\erau\Desktop\Term1\C#\21Jan\obj\Debug\netcoreapp3.1\21Jan.AssemblyInfo.cs
 C:\Users\erau\Desktop\Term1\C#\21Jan\obj\Debug\netcoreapp3.1\21Jan.dll
 C:\Users\erau\Desktop\Term1\C#\21Jan\obj\Debug\netcoreapp3.1\21Jan.pdb
+C:\Users\Antho\Desktop\MSSA\.Net\21Jan\bin\Debug\netcoreapp3.1\21Jan.exe
+C:\Users\Antho\Desktop\MSSA\.Net\21Jan\bin\Debug\netcoreapp3.1\21Jan.deps.json
+C:\Users\Antho\Desktop\MSSA\.Net\21Jan\bin\Debug\netcoreapp3.1\21Jan.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\.Net\21Jan\bin\Debug\netcoreapp3.1\21Jan.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\.Net\21Jan\bin\Debug\netcoreapp3.1\21Jan.dll
+C:\Users\Antho\Desktop\MSSA\.Net\21Jan\bin\Debug\netcoreapp3.1\21Jan.pdb
+C:\Users\Antho\Desktop\MSSA\.Net\21Jan\obj\Debug\netcoreapp3.1\21Jan.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\.Net\21Jan\obj\Debug\netcoreapp3.1\21Jan.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\.Net\21Jan\obj\Debug\netcoreapp3.1\21Jan.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\.Net\21Jan\obj\Debug\netcoreapp3.1\21Jan.dll
+C:\Users\Antho\Desktop\MSSA\.Net\21Jan\obj\Debug\netcoreapp3.1\21Jan.pdb
