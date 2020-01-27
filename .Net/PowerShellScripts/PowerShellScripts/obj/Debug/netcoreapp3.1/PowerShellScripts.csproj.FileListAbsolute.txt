@@ -1,0 +1,11 @@
+C:\Users\Antho\Desktop\MSSA\.Net\PowerShellScripts\PowerShellScripts\bin\Debug\netcoreapp3.1\PowerShellScripts.exe
+C:\Users\Antho\Desktop\MSSA\.Net\PowerShellScripts\PowerShellScripts\bin\Debug\netcoreapp3.1\PowerShellScripts.deps.json
+C:\Users\Antho\Desktop\MSSA\.Net\PowerShellScripts\PowerShellScripts\bin\Debug\netcoreapp3.1\PowerShellScripts.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\.Net\PowerShellScripts\PowerShellScripts\bin\Debug\netcoreapp3.1\PowerShellScripts.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\.Net\PowerShellScripts\PowerShellScripts\bin\Debug\netcoreapp3.1\PowerShellScripts.dll
+C:\Users\Antho\Desktop\MSSA\.Net\PowerShellScripts\PowerShellScripts\bin\Debug\netcoreapp3.1\PowerShellScripts.pdb
+C:\Users\Antho\Desktop\MSSA\.Net\PowerShellScripts\PowerShellScripts\obj\Debug\netcoreapp3.1\PowerShellScripts.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\.Net\PowerShellScripts\PowerShellScripts\obj\Debug\netcoreapp3.1\PowerShellScripts.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\.Net\PowerShellScripts\PowerShellScripts\obj\Debug\netcoreapp3.1\PowerShellScripts.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\.Net\PowerShellScripts\PowerShellScripts\obj\Debug\netcoreapp3.1\PowerShellScripts.dll
+C:\Users\Antho\Desktop\MSSA\.Net\PowerShellScripts\PowerShellScripts\obj\Debug\netcoreapp3.1\PowerShellScripts.pdb

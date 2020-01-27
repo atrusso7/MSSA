@@ -1,0 +1,11 @@
+C:\Users\Antho\Desktop\MSSA\.Net\ConsoleSpinner\ConsoleSpinner\bin\Debug\netcoreapp3.1\ConsoleSpinner.exe
+C:\Users\Antho\Desktop\MSSA\.Net\ConsoleSpinner\ConsoleSpinner\bin\Debug\netcoreapp3.1\ConsoleSpinner.deps.json
+C:\Users\Antho\Desktop\MSSA\.Net\ConsoleSpinner\ConsoleSpinner\bin\Debug\netcoreapp3.1\ConsoleSpinner.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\.Net\ConsoleSpinner\ConsoleSpinner\bin\Debug\netcoreapp3.1\ConsoleSpinner.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\.Net\ConsoleSpinner\ConsoleSpinner\bin\Debug\netcoreapp3.1\ConsoleSpinner.dll
+C:\Users\Antho\Desktop\MSSA\.Net\ConsoleSpinner\ConsoleSpinner\bin\Debug\netcoreapp3.1\ConsoleSpinner.pdb
+C:\Users\Antho\Desktop\MSSA\.Net\ConsoleSpinner\ConsoleSpinner\obj\Debug\netcoreapp3.1\ConsoleSpinner.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\.Net\ConsoleSpinner\ConsoleSpinner\obj\Debug\netcoreapp3.1\ConsoleSpinner.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\.Net\ConsoleSpinner\ConsoleSpinner\obj\Debug\netcoreapp3.1\ConsoleSpinner.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\.Net\ConsoleSpinner\ConsoleSpinner\obj\Debug\netcoreapp3.1\ConsoleSpinner.dll
+C:\Users\Antho\Desktop\MSSA\.Net\ConsoleSpinner\ConsoleSpinner\obj\Debug\netcoreapp3.1\ConsoleSpinner.pdb

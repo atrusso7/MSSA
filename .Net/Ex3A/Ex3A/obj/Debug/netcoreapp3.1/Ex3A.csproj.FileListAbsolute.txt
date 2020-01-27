@@ -1,0 +1,10 @@
+C:\Users\Antho\source\repos\Ex3A\Ex3A\obj\Debug\netcoreapp3.1\Ex3A.AssemblyInfoInputs.cache
+C:\Users\Antho\source\repos\Ex3A\Ex3A\obj\Debug\netcoreapp3.1\Ex3A.AssemblyInfo.cs
+C:\Users\Antho\source\repos\Ex3A\Ex3A\bin\Debug\netcoreapp3.1\Ex3A.exe
+C:\Users\Antho\source\repos\Ex3A\Ex3A\bin\Debug\netcoreapp3.1\Ex3A.deps.json
+C:\Users\Antho\source\repos\Ex3A\Ex3A\bin\Debug\netcoreapp3.1\Ex3A.runtimeconfig.json
+C:\Users\Antho\source\repos\Ex3A\Ex3A\bin\Debug\netcoreapp3.1\Ex3A.runtimeconfig.dev.json
+C:\Users\Antho\source\repos\Ex3A\Ex3A\bin\Debug\netcoreapp3.1\Ex3A.dll
+C:\Users\Antho\source\repos\Ex3A\Ex3A\bin\Debug\netcoreapp3.1\Ex3A.pdb
+C:\Users\Antho\source\repos\Ex3A\Ex3A\obj\Debug\netcoreapp3.1\Ex3A.dll
+C:\Users\Antho\source\repos\Ex3A\Ex3A\obj\Debug\netcoreapp3.1\Ex3A.pdb

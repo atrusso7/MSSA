@@ -1,0 +1,10 @@
+C:\Users\Antho\source\repos\Lab3dMathApp\Lab3dMathApp\bin\Debug\netcoreapp3.1\Lab3dMathApp.exe
+C:\Users\Antho\source\repos\Lab3dMathApp\Lab3dMathApp\bin\Debug\netcoreapp3.1\Lab3dMathApp.deps.json
+C:\Users\Antho\source\repos\Lab3dMathApp\Lab3dMathApp\bin\Debug\netcoreapp3.1\Lab3dMathApp.runtimeconfig.json
+C:\Users\Antho\source\repos\Lab3dMathApp\Lab3dMathApp\bin\Debug\netcoreapp3.1\Lab3dMathApp.runtimeconfig.dev.json
+C:\Users\Antho\source\repos\Lab3dMathApp\Lab3dMathApp\bin\Debug\netcoreapp3.1\Lab3dMathApp.dll
+C:\Users\Antho\source\repos\Lab3dMathApp\Lab3dMathApp\bin\Debug\netcoreapp3.1\Lab3dMathApp.pdb
+C:\Users\Antho\source\repos\Lab3dMathApp\Lab3dMathApp\obj\Debug\netcoreapp3.1\Lab3dMathApp.AssemblyInfoInputs.cache
+C:\Users\Antho\source\repos\Lab3dMathApp\Lab3dMathApp\obj\Debug\netcoreapp3.1\Lab3dMathApp.AssemblyInfo.cs
+C:\Users\Antho\source\repos\Lab3dMathApp\Lab3dMathApp\obj\Debug\netcoreapp3.1\Lab3dMathApp.dll
+C:\Users\Antho\source\repos\Lab3dMathApp\Lab3dMathApp\obj\Debug\netcoreapp3.1\Lab3dMathApp.pdb
