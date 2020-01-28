@@ -9,7 +9,7 @@ namespace _28Jan.Net
     {
         static void Main()
         {
-            //nested loops
+            /*//nested loops
             for (int i = 2; i < 3; i++)
                 for (int j = i; j < i; j++)
                     WriteLine("Buon Giorno");
@@ -32,7 +32,7 @@ namespace _28Jan.Net
             WriteLine("The max value in the array = " + MaxValue(myArray));
 
             //try and catch snippet
-            /*int x = 1;
+            *//*int x = 1;
             int y = 0;
             try
             {
@@ -42,8 +42,34 @@ namespace _28Jan.Net
             {
 
                 throw;
-            }*/
+            }*//*
             Radius();
+
+            //instatiating new class objects
+            Book dune = new Book();
+            dune.author = "Frank Herbert";
+            dune.numPages = 412;
+            dune.title = "Dune";
+
+            Book institute = new Book();
+            institute.author = "Stephen King";
+            institute.title = "The Institute";
+            institute.numPages = 576;
+
+            Book harryPotter1 = new Book();
+            harryPotter1.title = "Harry Potter and The Sorcerer's Stone";
+            harryPotter1.numPages = 350;
+            harryPotter1.author = "J.K. Rowling";*/
+
+            Pig newPig = new Pig();
+            Snake newSnake = new Snake();
+            Monkey newMonkey = new Monkey();
+            WriteLine(newPig.Noise());
+            WriteLine(newSnake.Noise()); 
+            WriteLine(newMonkey.Noise());
+            WriteLine(newPig.Eat("slop"));
+            WriteLine(newPig.Eat("poo"));
+
         }
         static void Radius() //includes error handling for all non-int and non-positive entrys
         {
