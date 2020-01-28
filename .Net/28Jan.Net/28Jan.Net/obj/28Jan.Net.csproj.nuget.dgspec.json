@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\Ex3A\\Ex3A\\Ex3A.csproj": {}
+    "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\28Jan.Net\\28Jan.Net\\28Jan.Net.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\Ex3A\\Ex3A\\Ex3A.csproj": {
+    "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\28Jan.Net\\28Jan.Net\\28Jan.Net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\Ex3A\\Ex3A\\Ex3A.csproj",
-        "projectName": "Ex3A",
-        "projectPath": "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\Ex3A\\Ex3A\\Ex3A.csproj",
+        "projectUniqueName": "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\28Jan.Net\\28Jan.Net\\28Jan.Net.csproj",
+        "projectName": "28Jan.Net",
+        "projectPath": "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\28Jan.Net\\28Jan.Net\\28Jan.Net.csproj",
         "packagesPath": "C:\\Users\\Antho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\Ex3A\\Ex3A\\obj\\",
+        "outputPath": "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\28Jan.Net\\28Jan.Net\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

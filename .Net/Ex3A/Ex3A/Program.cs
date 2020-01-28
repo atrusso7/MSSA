@@ -17,11 +17,17 @@ namespace Ex3A
                 //Getting user input for radius
                 WriteLine("This equation finds the circumference of a circle given radius. Please enter the radius:");
                 radius = Convert.ToDouble(ReadLine());
+                if (radius < 0)
+                {
+                    ForegroundColor = ConsoleColor.Red;
+                    throw new Exception("\n\nPositive numbers only. Try again: ");
+                }
 
                 //Putting input into equation
                 circ = 2 * Math.PI * radius;
 
                 //Outputing results
+                ForegroundColor = ConsoleColor.Green;
                 WriteLine("The circumference of a circle with the radius of " + radius + " is " + circ);
             }
             catch
@@ -40,7 +46,7 @@ namespace Ex3A
             double fourThirds = (4 / 3);
 
             //Get user input
-            WriteLine("This equation finds the volume of a hemisphere given radius. Please enter the radius:");
+            WriteLine("Volume of a hemisphere given radius. Please enter the radius:");
             try
             {
                 r = Convert.ToDouble(ReadLine());
@@ -49,6 +55,7 @@ namespace Ex3A
                 volume = (fourThirds * Math.PI * Math.Pow(r, 3)) / 2;
 
                 //Output results
+                ForegroundColor = ConsoleColor.Green;
                 WriteLine("The volume of your hemisphere is " + volume);
             }
             catch
@@ -70,7 +77,7 @@ namespace Ex3A
             //Get user input
             try
             {
-                WriteLine("This equation finds the area of a triangle given the length of all sides. Please enter the first side:");
+                WriteLine("Area of a triangle given the length of all sides. Please enter the first side:");
                 a = Convert.ToDouble(ReadLine());
                 WriteLine("Now enter the second side");
                 b = Convert.ToDouble(ReadLine());
@@ -105,7 +112,7 @@ namespace Ex3A
             try
             {
                 //Get user input
-                WriteLine("This equation solves the quadratic equation given a, b, and c. Please enter a:");
+                WriteLine("Quadratic equation given a, b, and c. Please enter a:");
                 a = Convert.ToDouble(ReadLine());
                 WriteLine("Now b;");
                 b = Convert.ToDouble(ReadLine());
@@ -117,6 +124,7 @@ namespace Ex3A
 
                 if (d == 0)
                 {
+                    ForegroundColor = ConsoleColor.Green;
                     WriteLine("Both roots are equal. Therefore there is ONE real solution.");
                     x1 = -b / (2.0 * a);
                     x2 = x1;
@@ -125,6 +133,7 @@ namespace Ex3A
                 }
                 else if (d > 0)
                 {
+                    ForegroundColor = ConsoleColor.Green;
                     WriteLine("Both roots are greater than zero. Therefore there is TWO real solutions.");
                     x1 = ((b * -1) - (Math.Sqrt(Math.Pow(b, 2) - ((4 * a * c))))) / (2 * a);
                     x2 = ((b * -1) + (Math.Sqrt(Math.Pow(b, 2) - ((4 * a * c))))) / (2 * a);
@@ -133,7 +142,9 @@ namespace Ex3A
                 }
                 else
                 {
+                    ForegroundColor = ConsoleColor.Red;
                     WriteLine("Both roots are less than zero. Therefore there is NO solution.");
+                    throw new Exception("No real solution");
                 }
             }
             catch
@@ -161,6 +172,8 @@ namespace Ex3A
                     Quadratic();
                 else if (n == 5)
                     System.Environment.Exit(0);
+                else
+                    throw new Exception("Invalid Entry");
             }
             catch
             {
