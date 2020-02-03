@@ -1,0 +1,11 @@
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NETProject\03Feb.NETProject\bin\Debug\netcoreapp3.1\03Feb.NETProject.exe
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NETProject\03Feb.NETProject\bin\Debug\netcoreapp3.1\03Feb.NETProject.deps.json
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NETProject\03Feb.NETProject\bin\Debug\netcoreapp3.1\03Feb.NETProject.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NETProject\03Feb.NETProject\bin\Debug\netcoreapp3.1\03Feb.NETProject.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NETProject\03Feb.NETProject\bin\Debug\netcoreapp3.1\03Feb.NETProject.dll
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NETProject\03Feb.NETProject\bin\Debug\netcoreapp3.1\03Feb.NETProject.pdb
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NETProject\03Feb.NETProject\obj\Debug\netcoreapp3.1\03Feb.NETProject.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NETProject\03Feb.NETProject\obj\Debug\netcoreapp3.1\03Feb.NETProject.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NETProject\03Feb.NETProject\obj\Debug\netcoreapp3.1\03Feb.NETProject.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NETProject\03Feb.NETProject\obj\Debug\netcoreapp3.1\03Feb.NETProject.dll
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NETProject\03Feb.NETProject\obj\Debug\netcoreapp3.1\03Feb.NETProject.pdb

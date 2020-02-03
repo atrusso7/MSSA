@@ -1,0 +1,11 @@
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NET\03Feb.NET\bin\Debug\netcoreapp3.1\03Feb.NET.exe
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NET\03Feb.NET\bin\Debug\netcoreapp3.1\03Feb.NET.deps.json
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NET\03Feb.NET\bin\Debug\netcoreapp3.1\03Feb.NET.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NET\03Feb.NET\bin\Debug\netcoreapp3.1\03Feb.NET.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NET\03Feb.NET\bin\Debug\netcoreapp3.1\03Feb.NET.dll
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NET\03Feb.NET\bin\Debug\netcoreapp3.1\03Feb.NET.pdb
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NET\03Feb.NET\obj\Debug\netcoreapp3.1\03Feb.NET.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NET\03Feb.NET\obj\Debug\netcoreapp3.1\03Feb.NET.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NET\03Feb.NET\obj\Debug\netcoreapp3.1\03Feb.NET.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NET\03Feb.NET\obj\Debug\netcoreapp3.1\03Feb.NET.dll
+C:\Users\Antho\Desktop\MSSA\.Net\03Feb.NET\03Feb.NET\obj\Debug\netcoreapp3.1\03Feb.NET.pdb
