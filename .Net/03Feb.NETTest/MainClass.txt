@@ -1,0 +1,49 @@
+using System;
+using static System.Console;
+using System.Linq;
+
+namespace _03Feb.NETTest
+{
+    class Program
+    {
+
+        static double ClassAverage(params int[] grades)
+        {
+            double total = grades.Sum();
+            int numberOf = grades.GetLength(0);
+            double findAverage = total / numberOf;
+            return findAverage;
+        }
+        static void Main()
+        {
+            ////Question 1
+            ForegroundColor = ConsoleColor.Cyan;
+            WriteLine("---------------------------------");
+            WriteLine("--------Calculate Average--------");
+            WriteLine("---------------------------------");
+            WriteLine("\n\nInput 5 Numbers to Find Average: ");
+            var termsList = new System.Collections.Generic.List<int>();
+            while (termsList.Count < 5)
+            {
+                try
+                {
+                    termsList.Add(Convert.ToInt32(ReadLine()));
+                }
+                catch
+                {
+                    ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("[***Invalid Entry -- Only Enter Integers***]");
+                    Main();
+                }
+            }
+            int[] grades = termsList.ToArray();
+            ForegroundColor = ConsoleColor.Blue;
+            double average = ClassAverage(grades);
+            WriteLine("Average: " + average);
+
+            //Question 2
+            Staff mickey = new Staff("Mickey Mouse");
+            Console.WriteLine("Total Overtime Pay: " + mickey.CalculateOvertimePay(10));
+        }
+    }
+}
