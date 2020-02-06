@@ -1,0 +1,97 @@
+﻿ProductName                              SupplierID  CompanyName
+---------------------------------------- ----------- ----------------------------------------
+Chai                                     1           Exotic Liquids
+Chang                                    1           Exotic Liquids
+Aniseed Syrup                            1           Exotic Liquids
+Grandma's Boysenberry Spread             3           Grandma Kelly's Homestead
+Uncle Bob's Organic Dried Pears          3           Grandma Kelly's Homestead
+Northwoods Cranberry Sauce               3           Grandma Kelly's Homestead
+Mishi Kobe Niku                          4           Tokyo Traders
+Ikura                                    4           Tokyo Traders
+Longlife Tofu                            4           Tokyo Traders
+
+(9 rows affected)
+
+ProductName                              CategoryName
+---------------------------------------- ---------------
+Ikura                                    Seafood
+Konbu                                    Seafood
+Carnarvon Tigers                         Seafood
+Nord-Ost Matjeshering                    Seafood
+Inlagd Sill                              Seafood
+Gravad lax                               Seafood
+Boston Crab Meat                         Seafood
+Jack's New England Clam Chowder          Seafood
+Rogede sild                              Seafood
+Spegesild                                Seafood
+Escargots de Bourgogne                   Seafood
+Röd Kaviar                               Seafood
+
+(12 rows affected)
+
+CompanyName                              CategoryID
+---------------------------------------- -----------
+Tokyo Traders                            8
+Mayumi's                                 8
+Pavlova, Ltd.                            8
+Nord-Ost-Fisch Handelsgesellschaft mbH   8
+Svensk Sjöföda AB                        8
+Svensk Sjöföda AB                        8
+New England Seafood Cannery              8
+New England Seafood Cannery              8
+Lyngbysild                               8
+Lyngbysild                               8
+Escargots Nouveaux                       8
+Svensk Sjöföda AB                        8
+
+(12 rows affected)
+
+CompanyName                              CategoryName
+---------------------------------------- ---------------
+Tokyo Traders                            Seafood
+Mayumi's                                 Seafood
+Pavlova, Ltd.                            Seafood
+Nord-Ost-Fisch Handelsgesellschaft mbH   Seafood
+Svensk Sjöföda AB                        Seafood
+Svensk Sjöföda AB                        Seafood
+New England Seafood Cannery              Seafood
+New England Seafood Cannery              Seafood
+Lyngbysild                               Seafood
+Lyngbysild                               Seafood
+Escargots Nouveaux                       Seafood
+Svensk Sjöföda AB                        Seafood
+
+(12 rows affected)
+
+ProductName                              UnitPrice
+---------------------------------------- ---------------------
+Côte de Blaye                            263.50
+Thüringer Rostbratwurst                  123.79
+Mishi Kobe Niku                          97.00
+Sir Rodney's Marmalade                   81.00
+Carnarvon Tigers                         62.50
+Raclette Courdavault                     55.00
+Manjimup Dried Apples                    53.00
+Tarte au sucre                           49.30
+Ipoh Coffee                              46.00
+Rössle Sauerkraut                        45.60
+
+(10 rows affected)
+
+OrderDate               EmployeeID
+----------------------- -----------
+1998-04-29 00:00:00.000 9
+1998-05-06 00:00:00.000 8
+1998-05-06 00:00:00.000 7
+1998-04-23 00:00:00.000 6
+1998-04-22 00:00:00.000 5
+1998-05-06 00:00:00.000 4
+1998-04-30 00:00:00.000 3
+1998-05-05 00:00:00.000 2
+1998-05-05 00:00:00.000 2
+1998-05-06 00:00:00.000 1
+
+(10 rows affected)
+
+
+Completion time: 2020-02-06T09:17:57.8921360-06:00

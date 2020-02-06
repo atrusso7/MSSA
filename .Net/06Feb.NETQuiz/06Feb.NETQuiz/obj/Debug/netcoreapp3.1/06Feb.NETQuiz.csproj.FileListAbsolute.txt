@@ -1,0 +1,11 @@
+C:\Users\Antho\Desktop\MSSA\.Net\06Feb.NETQuiz\06Feb.NETQuiz\bin\Debug\netcoreapp3.1\06Feb.NETQuiz.exe
+C:\Users\Antho\Desktop\MSSA\.Net\06Feb.NETQuiz\06Feb.NETQuiz\bin\Debug\netcoreapp3.1\06Feb.NETQuiz.deps.json
+C:\Users\Antho\Desktop\MSSA\.Net\06Feb.NETQuiz\06Feb.NETQuiz\bin\Debug\netcoreapp3.1\06Feb.NETQuiz.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\.Net\06Feb.NETQuiz\06Feb.NETQuiz\bin\Debug\netcoreapp3.1\06Feb.NETQuiz.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\.Net\06Feb.NETQuiz\06Feb.NETQuiz\bin\Debug\netcoreapp3.1\06Feb.NETQuiz.dll
+C:\Users\Antho\Desktop\MSSA\.Net\06Feb.NETQuiz\06Feb.NETQuiz\bin\Debug\netcoreapp3.1\06Feb.NETQuiz.pdb
+C:\Users\Antho\Desktop\MSSA\.Net\06Feb.NETQuiz\06Feb.NETQuiz\obj\Debug\netcoreapp3.1\06Feb.NETQuiz.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\.Net\06Feb.NETQuiz\06Feb.NETQuiz\obj\Debug\netcoreapp3.1\06Feb.NETQuiz.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\.Net\06Feb.NETQuiz\06Feb.NETQuiz\obj\Debug\netcoreapp3.1\06Feb.NETQuiz.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\.Net\06Feb.NETQuiz\06Feb.NETQuiz\obj\Debug\netcoreapp3.1\06Feb.NETQuiz.dll
+C:\Users\Antho\Desktop\MSSA\.Net\06Feb.NETQuiz\06Feb.NETQuiz\obj\Debug\netcoreapp3.1\06Feb.NETQuiz.pdb
