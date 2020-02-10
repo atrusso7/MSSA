@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Figgle;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -10,12 +11,17 @@ namespace _28Jan.Net
         {
             return "The pig goes OINK OINK!";
         }
-        public string Eat(string food)
+        public string Eat()
         {
-            if (food == "slop")
-                return "MMMMMMMMMM pig likes slop";
-            else
-                return "Pig has never had this food before. Pig is unsure.";
+            return "MMMMMMMMMM pig likes slop";            
+        }
+        public string Move()
+        {
+            return "Pig shuffles about";
+        }
+        public Pig()
+        {
+            Console.WriteLine(FiggleFonts.Standard.Render("Hey I'm a pig!"));
         }
     }
 }

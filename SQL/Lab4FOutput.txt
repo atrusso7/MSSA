@@ -1,0 +1,1048 @@
+CustomerID totalNumber
+---------- -----------
+SAVEA      31
+RATTC      18
+WHITC      14
+GREAL      11
+OLDWO      10
+SPLIR      9
+LONEP      8
+HUNGC      5
+LETSS      4
+THEBI      4
+THECR      3
+TRAIH      3
+LAZYK      2
+
+(13 rows affected)
+
+ProductName                              ProductTotal
+---------------------------------------- ------------
+Original Frankfurter grüne Soße          7
+Gumbär Gummibärchen                      7
+Nord-Ost Matjeshering                    6
+Wimmers gute Semmelknödel                6
+Rhönbräu Klosterbier                     6
+Rössle Sauerkraut                        5
+Thüringer Rostbratwurst                  4
+NuNuCa Nuß-Nougat-Creme                  2
+Schoggi Schokolade                       2
+
+(9 rows affected)
+
+Names                                                                                                                                                                                                                                                            ReportsTo   NumSupervised
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------- -------------
+Fuller                                                                                                                                                                                                                                                           NULL        0
+Dodsworth;Suyama;King                                                                                                                                                                                                                                            5           3
+Leverling;Peacock;Buchanan;Callahan;Davolio                                                                                                                                                                                                                      2           5
+Warning: Null value is eliminated by an aggregate or other SET operation.
+
+(3 rows affected)
+
+CustomerEmployeePair
+--------------------
+ALFKI1
+ALFKI3
+ALFKI4
+ALFKI6
+ANATR3
+ANATR4
+ANATR7
+ANTON1
+ANTON3
+ANTON4
+ANTON7
+AROUT1
+AROUT3
+AROUT4
+AROUT6
+AROUT8
+AROUT9
+BERGS1
+BERGS2
+BERGS3
+BERGS4
+BERGS5
+BERGS8
+BERGS9
+BLAUS3
+BLAUS4
+BLAUS6
+BLAUS8
+BLAUS9
+BLONP2
+BLONP3
+BLONP4
+BLONP5
+BLONP6
+BLONP8
+BLONP9
+BOLID4
+BOLID9
+BONAP1
+BONAP2
+BONAP3
+BONAP4
+BONAP5
+BONAP7
+BONAP8
+BONAP9
+BOTTM1
+BOTTM2
+BOTTM3
+BOTTM4
+BOTTM6
+BOTTM7
+BOTTM9
+BSBEV1
+BSBEV2
+BSBEV3
+BSBEV4
+BSBEV6
+BSBEV7
+BSBEV9
+CACTU2
+CACTU4
+CACTU7
+CACTU8
+CACTU9
+CENTC4
+CHOPS1
+CHOPS3
+CHOPS4
+CHOPS5
+CHOPS6
+CHOPS7
+COMMI1
+COMMI2
+COMMI4
+COMMI8
+CONSH2
+CONSH7
+CONSH8
+DRACD1
+DRACD3
+DRACD4
+DRACD7
+DRACD8
+DUMON1
+DUMON2
+DUMON7
+EASTC1
+EASTC4
+EASTC7
+EASTC8
+ERNSH1
+ERNSH2
+ERNSH3
+ERNSH4
+ERNSH6
+ERNSH7
+ERNSH8
+ERNSH9
+FAMIA2
+FAMIA3
+FAMIA4
+FAMIA5
+FAMIA7
+FAMIA9
+FOLIG1
+FOLIG3
+FOLIG4
+FOLIG6
+FOLIG8
+FOLKO1
+FOLKO2
+FOLKO3
+FOLKO4
+FOLKO5
+FOLKO6
+FOLKO7
+FOLKO8
+FRANK1
+FRANK4
+FRANK5
+FRANK6
+FRANK8
+FRANR1
+FRANR2
+FRANR3
+FRANS1
+FRANS2
+FRANS3
+FRANS4
+FURIB1
+FURIB3
+FURIB4
+FURIB8
+FURIB9
+GALED1
+GALED3
+GALED4
+GALED8
+GODOS1
+GODOS2
+GODOS3
+GODOS4
+GODOS5
+GODOS7
+GOURL1
+GOURL2
+GOURL3
+GOURL4
+GOURL6
+GOURL7
+GREAL1
+GREAL3
+GREAL4
+GREAL6
+GREAL8
+GROSR1
+GROSR8
+HANAR1
+HANAR2
+HANAR3
+HANAR4
+HANAR5
+HANAR8
+HANAR9
+HILAA1
+HILAA2
+HILAA3
+HILAA4
+HILAA6
+HILAA7
+HILAA8
+HILAA9
+HUNGC1
+HUNGC3
+HUNGC4
+HUNGC8
+HUNGO1
+HUNGO2
+HUNGO3
+HUNGO4
+HUNGO6
+HUNGO7
+HUNGO8
+HUNGO9
+ISLAT1
+ISLAT2
+ISLAT3
+ISLAT4
+ISLAT6
+ISLAT8
+ISLAT9
+KOENE1
+KOENE2
+KOENE3
+KOENE4
+KOENE8
+KOENE9
+LACOR2
+LACOR4
+LACOR6
+LAMAI1
+LAMAI2
+LAMAI3
+LAMAI4
+LAMAI5
+LAMAI6
+LAMAI7
+LAMAI8
+LAUGB2
+LAUGB3
+LAZYK1
+LAZYK8
+LEHMS2
+LEHMS3
+LEHMS4
+LEHMS7
+LEHMS8
+LEHMS9
+LETSS1
+LETSS4
+LETSS6
+LETSS8
+LILAS1
+LILAS2
+LILAS3
+LILAS4
+LILAS5
+LILAS6
+LILAS8
+LINOD1
+LINOD2
+LINOD3
+LINOD4
+LINOD5
+LINOD8
+LONEP1
+LONEP2
+LONEP3
+LONEP4
+LONEP6
+LONEP8
+MAGAA1
+MAGAA2
+MAGAA4
+MAGAA6
+MAGAA7
+MAGAA8
+MAISD3
+MAISD4
+MAISD5
+MAISD7
+MAISD9
+MEREP1
+MEREP2
+MEREP3
+MEREP4
+MEREP6
+MEREP7
+MEREP8
+MORGK2
+MORGK3
+MORGK4
+MORGK5
+NORTS2
+NORTS3
+OCEAN3
+OCEAN4
+OCEAN7
+OCEAN8
+OLDWO1
+OLDWO2
+OLDWO3
+OLDWO4
+OLDWO6
+OLDWO8
+OTTIK1
+OTTIK2
+OTTIK3
+OTTIK4
+OTTIK6
+PERIC1
+PERIC2
+PERIC5
+PERIC7
+PERIC8
+PICCO2
+PICCO3
+PICCO4
+PICCO6
+PICCO7
+PICCO8
+PRINI3
+PRINI5
+PRINI7
+PRINI8
+QUEDE1
+QUEDE2
+QUEDE4
+QUEDE6
+QUEDE8
+QUEEN2
+QUEEN4
+QUEEN5
+QUEEN6
+QUEEN7
+QUEEN8
+QUICK1
+QUICK2
+QUICK3
+QUICK4
+QUICK5
+QUICK7
+QUICK8
+QUICK9
+RANCH1
+RANCH4
+RANCH6
+RANCH9
+RATTC1
+RATTC2
+RATTC3
+RATTC4
+RATTC5
+RATTC6
+RATTC8
+RATTC9
+REGGC1
+REGGC2
+REGGC4
+REGGC5
+REGGC7
+REGGC8
+REGGC9
+RICAR1
+RICAR2
+RICAR4
+RICAR5
+RICAR8
+RICSU1
+RICSU3
+RICSU4
+RICSU7
+RICSU8
+RICSU9
+ROMEY1
+ROMEY2
+ROMEY4
+SANTG1
+SANTG2
+SANTG3
+SANTG7
+SAVEA1
+SAVEA2
+SAVEA3
+SAVEA4
+SAVEA5
+SAVEA6
+SAVEA7
+SAVEA8
+SAVEA9
+SEVES1
+SEVES2
+SEVES3
+SEVES5
+SEVES6
+SEVES7
+SEVES8
+SIMOB2
+SIMOB4
+SIMOB7
+SPECD2
+SPECD3
+SPECD5
+SPECD6
+SPLIR1
+SPLIR3
+SPLIR4
+SPLIR6
+SPLIR7
+SPLIR8
+SUPRD1
+SUPRD2
+SUPRD4
+SUPRD5
+SUPRD6
+SUPRD7
+SUPRD9
+THEBI1
+THEBI2
+THEBI6
+THEBI8
+THECR3
+THECR4
+THECR7
+TOMSP2
+TOMSP3
+TOMSP4
+TOMSP6
+TORTU1
+TORTU2
+TORTU3
+TORTU4
+TORTU7
+TORTU8
+TRADH1
+TRADH3
+TRADH4
+TRADH7
+TRAIH4
+TRAIH6
+TRAIH9
+VAFFE1
+VAFFE2
+VAFFE3
+VAFFE4
+VAFFE6
+VAFFE7
+VAFFE8
+VICTE1
+VICTE2
+VICTE3
+VICTE4
+VICTE8
+VINET2
+VINET3
+VINET5
+VINET6
+WANDK1
+WANDK2
+WANDK4
+WANDK6
+WANDK7
+WANDK8
+WARTH1
+WARTH2
+WARTH3
+WARTH4
+WARTH5
+WARTH6
+WARTH8
+WARTH9
+WELLI1
+WELLI3
+WELLI4
+WELLI7
+WELLI9
+WHITC1
+WHITC2
+WHITC3
+WHITC4
+WHITC5
+WHITC7
+WHITC8
+WILMK1
+WILMK2
+WILMK3
+WILMK4
+WILMK7
+WOLZA1
+WOLZA4
+WOLZA5
+WOLZA6
+WOLZA8
+
+(464 rows affected)
+
+Names                           ContactName                    ShipName                                 EmployeeID  CustomerEmployeePair
+------------------------------- ------------------------------ ---------------------------------------- ----------- --------------------
+Andrew Fuller                   Alejandra Camino               Romero y tomillo                         2           ROMEY2
+Andrew Fuller                   Alexander Feuer                Morgenstern Gesundkost                   2           MORGK2
+Andrew Fuller                   André Fonseca                  Gourmet Lanchonetes                      2           GOURL2
+Andrew Fuller                   Annette Roulet                 La maison d'Asie                         2           LAMAI2
+Andrew Fuller                   Aria Cruz                      Familia Arquibaldo                       2           FAMIA2
+Andrew Fuller                   Bernardo Batista               Que Delícia                              2           QUEDE2
+Andrew Fuller                   Carine Schmitt                 France restauration                      2           FRANR2
+Andrew Fuller                   Carlos González                LILA-Supermercado                        2           LILAS2
+Andrew Fuller                   Carlos Hernández               HILARION-Abastos                         2           HILAA2
+Andrew Fuller                   Christina Berglund             Berglunds snabbköp                       2           BERGS2
+Andrew Fuller                   Daniel Tonini                  La corne d'abondance                     2           LACOR2
+Andrew Fuller                   Dominique Perrier              Spécialités du monde                     2           SPECD2
+Andrew Fuller                   Elizabeth Brown                Consolidated Holdings                    2           CONSH2
+Andrew Fuller                   Elizabeth Lincoln              Bottom-Dollar Markets                    2           BOTTM2
+Andrew Fuller                   Felipe Izquierdo               LINO-Delicateses                         2           LINOD2
+Andrew Fuller                   Fran Wilson                    Lonesome Pine Restaurant                 2           LONEP2
+Andrew Fuller                   Frédérique Citeaux             Blondel père et fils                     2           BLONP2
+Andrew Fuller                   Georg Pipps                    Piccolo und mehr                         2           PICCO2
+Andrew Fuller                   Giovanni Rovelli               Magazzini Alimentari Riuniti             2           MAGAA2
+Andrew Fuller                   Guillermo Fernández            Pericles Comidas clásicas                2           PERIC2
+Andrew Fuller                   Hari Kumar                     Seven Seas Imports                       2           SEVES2
+Andrew Fuller                   Helen Bennett                  Island Trading                           2           ISLAT2
+Andrew Fuller                   Henriette Pfalzheim            Ottilies Käseladen                       2           OTTIK2
+Andrew Fuller                   Horst Kloss                    QUICK-Stop                               2           QUICK2
+Andrew Fuller                   Janete Limeira                 Ricardo Adocicados                       2           RICAR2
+Andrew Fuller                   Janine Labrune                 Du monde entier                          2           DUMON2
+Andrew Fuller                   Jean Fresnière                 Mère Paillarde                           2           MEREP2
+Andrew Fuller                   Jonas Bergulfsen               Santé Gourmet                            2           SANTG2
+Andrew Fuller                   Jose Pavarotti                 Save-a-lot Markets                       2           SAVEA2
+Andrew Fuller                   José Pedro Freyre              Godos Cocina Típica                      2           GODOS2
+Andrew Fuller                   Jytte Petersen                 Simons bistro                            2           SIMOB2
+Andrew Fuller                   Karin Josephs                  Toms Spezialitäten                       2           TOMSP2
+Andrew Fuller                   Karl Jablonski                 White Clover Markets                     2           WHITC2
+Andrew Fuller                   Laurence Lebihan               Bon app'                                 2           BONAP2
+Andrew Fuller                   Liz Nixon                      The Big Cheese                           2           THEBI2
+Andrew Fuller                   Lúcia Carvalho                 Queen Cozinha                            2           QUEEN2
+Andrew Fuller                   Maria Larsson                  Folk och fä HB                           2           FOLKO2
+Andrew Fuller                   Mario Pontes                   Hanari Carnes                            2           HANAR2
+Andrew Fuller                   Mary Saveley                   Victuailles en stock                     2           VICTE2
+Andrew Fuller                   Matti Karttunen                Wilman Kala                              2           WILMK2
+Andrew Fuller                   Maurizio Moroni                Reggiani Caseifici                       2           REGGC2
+Andrew Fuller                   Miguel Angel Paolino           Tortuga Restaurante                      2           TORTU2
+Andrew Fuller                   Palle Ibsen                    Vaffeljernet                             2           VAFFE2
+Andrew Fuller                   Paolo Accorti                  Franchi S.p.A.                           2           FRANS2
+Andrew Fuller                   Pascale Cartrain               Suprêmes délices                         2           SUPRD2
+Andrew Fuller                   Patricia McKenna               Hungry Owl All-Night Grocers             2           HUNGO2
+Andrew Fuller                   Patricio Simpson               Cactus Comidas para llevar               2           CACTU2
+Andrew Fuller                   Paul Henriot                   Vins et alcools Chevalier                2           VINET2
+Andrew Fuller                   Paula Wilson                   Rattlesnake Canyon Grocery               2           RATTC2
+Andrew Fuller                   Pedro Afonso                   Comércio Mineiro                         2           COMMI2
+Andrew Fuller                   Philip Cramer                  Königlich Essen                          2           KOENE2
+Andrew Fuller                   Pirkko Koskitalo               Wartian Herkku                           2           WARTH2
+Andrew Fuller                   Renate Messner                 Lehmanns Marktstand                      2           LEHMS2
+Andrew Fuller                   Rene Phillips                  Old World Delicatessen                   2           OLDWO2
+Andrew Fuller                   Rita Müller                    Die Wandernde Kuh                        2           WANDK2
+Andrew Fuller                   Roland Mendel                  Ernst Handel                             2           ERNSH2
+Andrew Fuller                   Simon Crowther                 North/South                              2           NORTS2
+Andrew Fuller                   Victoria Ashworth              B's Beverages                            2           BSBEV2
+Andrew Fuller                   Yoshi Tannamuri                Laughing Bacchus Wine Cellars            2           LAUGB2
+Anne Dodsworth                  Aria Cruz                      Familia Arquibaldo                       9           FAMIA9
+Anne Dodsworth                  Carlos Hernández               HILARION-Abastos                         9           HILAA9
+Anne Dodsworth                  Catherine Dewey                Maison Dewey                             9           MAISD9
+Anne Dodsworth                  Christina Berglund             Berglunds snabbköp                       9           BERGS9
+Anne Dodsworth                  Elizabeth Lincoln              Bottom-Dollar Markets                    9           BOTTM9
+Anne Dodsworth                  Frédérique Citeaux             Blondel père et fils                     9           BLONP9
+Anne Dodsworth                  Hanna Moos                     Blauer See Delikatessen                  9           BLAUS9
+Anne Dodsworth                  Helen Bennett                  Island Trading                           9           ISLAT9
+Anne Dodsworth                  Helvetius Nagy                 Trail's Head Gourmet Provisioners        9           TRAIH9
+Anne Dodsworth                  Horst Kloss                    QUICK-Stop                               9           QUICK9
+Anne Dodsworth                  Jose Pavarotti                 Save-a-lot Markets                       9           SAVEA9
+Anne Dodsworth                  Laurence Lebihan               Bon app'                                 9           BONAP9
+Anne Dodsworth                  Lino Rodriguez                 Furia Bacalhau e Frutos do Mar           9           FURIB9
+Anne Dodsworth                  Mario Pontes                   Hanari Carnes                            9           HANAR9
+Anne Dodsworth                  Martín Sommer                  Bólido Comidas preparadas                9           BOLID9
+Anne Dodsworth                  Maurizio Moroni                Reggiani Caseifici                       9           REGGC9
+Anne Dodsworth                  Michael Holz                   Richter Supermarkt                       9           RICSU9
+Anne Dodsworth                  Pascale Cartrain               Suprêmes délices                         9           SUPRD9
+Anne Dodsworth                  Patricia McKenna               Hungry Owl All-Night Grocers             9           HUNGO9
+Anne Dodsworth                  Patricio Simpson               Cactus Comidas para llevar               9           CACTU9
+Anne Dodsworth                  Paula Parente                  Wellington Importadora                   9           WELLI9
+Anne Dodsworth                  Paula Wilson                   Rattlesnake Canyon Grocery               9           RATTC9
+Anne Dodsworth                  Philip Cramer                  Königlich Essen                          9           KOENE9
+Anne Dodsworth                  Pirkko Koskitalo               Wartian Herkku                           9           WARTH9
+Anne Dodsworth                  Renate Messner                 Lehmanns Marktstand                      9           LEHMS9
+Anne Dodsworth                  Roland Mendel                  Ernst Handel                             9           ERNSH9
+Anne Dodsworth                  Sergio Gutiérrez               Rancho grande                            9           RANCH9
+Anne Dodsworth                  Thomas Hardy                   Around the Horn                          9           AROUT9
+Anne Dodsworth                  Victoria Ashworth              B's Beverages                            9           BSBEV9
+Janet Leverling                 Alexander Feuer                Morgenstern Gesundkost                   3           MORGK3
+Janet Leverling                 Ana Trujillo                   Ana Trujillo Emparedados y helados       3           ANATR3
+Janet Leverling                 Anabela Domingues              Tradiçao Hipermercados                   3           TRADH3
+Janet Leverling                 André Fonseca                  Gourmet Lanchonetes                      3           GOURL3
+Janet Leverling                 Annette Roulet                 La maison d'Asie                         3           LAMAI3
+Janet Leverling                 Antonio Moreno                 Antonio Moreno Taquería                  3           ANTON3
+Janet Leverling                 Aria Cruz                      Familia Arquibaldo                       3           FAMIA3
+Janet Leverling                 Art Braunschweiger             Split Rail Beer & Ale                    3           SPLIR3
+Janet Leverling                 Carine Schmitt                 France restauration                      3           FRANR3
+Janet Leverling                 Carlos González                LILA-Supermercado                        3           LILAS3
+Janet Leverling                 Carlos Hernández               HILARION-Abastos                         3           HILAA3
+Janet Leverling                 Catherine Dewey                Maison Dewey                             3           MAISD3
+Janet Leverling                 Christina Berglund             Berglunds snabbköp                       3           BERGS3
+Janet Leverling                 Dominique Perrier              Spécialités du monde                     3           SPECD3
+Janet Leverling                 Eduardo Saavedra               Galería del gastronómo                   3           GALED3
+Janet Leverling                 Elizabeth Lincoln              Bottom-Dollar Markets                    3           BOTTM3
+Janet Leverling                 Felipe Izquierdo               LINO-Delicateses                         3           LINOD3
+Janet Leverling                 Fran Wilson                    Lonesome Pine Restaurant                 3           LONEP3
+Janet Leverling                 Frédérique Citeaux             Blondel père et fils                     3           BLONP3
+Janet Leverling                 Georg Pipps                    Piccolo und mehr                         3           PICCO3
+Janet Leverling                 Hanna Moos                     Blauer See Delikatessen                  3           BLAUS3
+Janet Leverling                 Hari Kumar                     Seven Seas Imports                       3           SEVES3
+Janet Leverling                 Helen Bennett                  Island Trading                           3           ISLAT3
+Janet Leverling                 Henriette Pfalzheim            Ottilies Käseladen                       3           OTTIK3
+Janet Leverling                 Horst Kloss                    QUICK-Stop                               3           QUICK3
+Janet Leverling                 Howard Snyder                  Great Lakes Food Market                  3           GREAL3
+Janet Leverling                 Isabel de Castro               Princesa Isabel Vinhos                   3           PRINI3
+Janet Leverling                 Jean Fresnière                 Mère Paillarde                           3           MEREP3
+Janet Leverling                 Jonas Bergulfsen               Santé Gourmet                            3           SANTG3
+Janet Leverling                 Jose Pavarotti                 Save-a-lot Markets                       3           SAVEA3
+Janet Leverling                 José Pedro Freyre              Godos Cocina Típica                      3           GODOS3
+Janet Leverling                 Karin Josephs                  Toms Spezialitäten                       3           TOMSP3
+Janet Leverling                 Karl Jablonski                 White Clover Markets                     3           WHITC3
+Janet Leverling                 Laurence Lebihan               Bon app'                                 3           BONAP3
+Janet Leverling                 Lino Rodriguez                 Furia Bacalhau e Frutos do Mar           3           FURIB3
+Janet Leverling                 Liu Wong                       The Cracker Box                          3           THECR3
+Janet Leverling                 Maria Anders                   Alfred's Futterkiste                     3           ALFKI3
+Janet Leverling                 Maria Larsson                  Folk och fä HB                           3           FOLKO3
+Janet Leverling                 Mario Pontes                   Hanari Carnes                            3           HANAR3
+Janet Leverling                 Martine Rancé                  Folies gourmandes                        3           FOLIG3
+Janet Leverling                 Mary Saveley                   Victuailles en stock                     3           VICTE3
+Janet Leverling                 Matti Karttunen                Wilman Kala                              3           WILMK3
+Janet Leverling                 Michael Holz                   Richter Supermarkt                       3           RICSU3
+Janet Leverling                 Miguel Angel Paolino           Tortuga Restaurante                      3           TORTU3
+Janet Leverling                 Palle Ibsen                    Vaffeljernet                             3           VAFFE3
+Janet Leverling                 Paolo Accorti                  Franchi S.p.A.                           3           FRANS3
+Janet Leverling                 Patricia McKenna               Hungry Owl All-Night Grocers             3           HUNGO3
+Janet Leverling                 Paul Henriot                   Vins et alcools Chevalier                3           VINET3
+Janet Leverling                 Paula Parente                  Wellington Importadora                   3           WELLI3
+Janet Leverling                 Paula Wilson                   Rattlesnake Canyon Grocery               3           RATTC3
+Janet Leverling                 Philip Cramer                  Königlich Essen                          3           KOENE3
+Janet Leverling                 Pirkko Koskitalo               Wartian Herkku                           3           WARTH3
+Janet Leverling                 Renate Messner                 Lehmanns Marktstand                      3           LEHMS3
+Janet Leverling                 Rene Phillips                  Old World Delicatessen                   3           OLDWO3
+Janet Leverling                 Roland Mendel                  Ernst Handel                             3           ERNSH3
+Janet Leverling                 Simon Crowther                 North/South                              3           NORTS3
+Janet Leverling                 Sven Ottlieb                   Drachenblut Delikatessen                 3           DRACD3
+Janet Leverling                 Thomas Hardy                   Around the Horn                          3           AROUT3
+Janet Leverling                 Victoria Ashworth              B's Beverages                            3           BSBEV3
+Janet Leverling                 Yang Wang                      Chop-suey Chinese                        3           CHOPS3
+Janet Leverling                 Yoshi Latimer                  Hungry Coyote Import Store               3           HUNGC3
+Janet Leverling                 Yoshi Tannamuri                Laughing Bacchus Wine Cellars            3           LAUGB3
+Janet Leverling                 Yvonne Moncada                 Océano Atlántico Ltda.                   3           OCEAN3
+Laura Callahan                  Ann Devon                      Eastern Connection                       8           EASTC8
+Laura Callahan                  Annette Roulet                 La maison d'Asie                         8           LAMAI8
+Laura Callahan                  Art Braunschweiger             Split Rail Beer & Ale                    8           SPLIR8
+Laura Callahan                  Bernardo Batista               Que Delícia                              8           QUEDE8
+Laura Callahan                  Carlos González                LILA-Supermercado                        8           LILAS8
+Laura Callahan                  Carlos Hernández               HILARION-Abastos                         8           HILAA8
+Laura Callahan                  Christina Berglund             Berglunds snabbköp                       8           BERGS8
+Laura Callahan                  Eduardo Saavedra               Galería del gastronómo                   8           GALED8
+Laura Callahan                  Elizabeth Brown                Consolidated Holdings                    8           CONSH8
+Laura Callahan                  Felipe Izquierdo               LINO-Delicateses                         8           LINOD8
+Laura Callahan                  Fran Wilson                    Lonesome Pine Restaurant                 8           LONEP8
+Laura Callahan                  Frédérique Citeaux             Blondel père et fils                     8           BLONP8
+Laura Callahan                  Georg Pipps                    Piccolo und mehr                         8           PICCO8
+Laura Callahan                  Giovanni Rovelli               Magazzini Alimentari Riuniti             8           MAGAA8
+Laura Callahan                  Guillermo Fernández            Pericles Comidas clásicas                8           PERIC8
+Laura Callahan                  Hanna Moos                     Blauer See Delikatessen                  8           BLAUS8
+Laura Callahan                  Hari Kumar                     Seven Seas Imports                       8           SEVES8
+Laura Callahan                  Helen Bennett                  Island Trading                           8           ISLAT8
+Laura Callahan                  Horst Kloss                    QUICK-Stop                               8           QUICK8
+Laura Callahan                  Howard Snyder                  Great Lakes Food Market                  8           GREAL8
+Laura Callahan                  Isabel de Castro               Princesa Isabel Vinhos                   8           PRINI8
+Laura Callahan                  Jaime Yorres                   Let's Stop N Shop                        8           LETSS8
+Laura Callahan                  Janete Limeira                 Ricardo Adocicados                       8           RICAR8
+Laura Callahan                  Jean Fresnière                 Mère Paillarde                           8           MEREP8
+Laura Callahan                  John Steel                     Lazy K Kountry Store                     8           LAZYK8
+Laura Callahan                  Jose Pavarotti                 Save-a-lot Markets                       8           SAVEA8
+Laura Callahan                  Karl Jablonski                 White Clover Markets                     8           WHITC8
+Laura Callahan                  Laurence Lebihan               Bon app'                                 8           BONAP8
+Laura Callahan                  Lino Rodriguez                 Furia Bacalhau e Frutos do Mar           8           FURIB8
+Laura Callahan                  Liz Nixon                      The Big Cheese                           8           THEBI8
+Laura Callahan                  Lúcia Carvalho                 Queen Cozinha                            8           QUEEN8
+Laura Callahan                  Manuel Pereira                 GROSELLA-Restaurante                     8           GROSR8
+Laura Callahan                  Maria Larsson                  Folk och fä HB                           8           FOLKO8
+Laura Callahan                  Mario Pontes                   Hanari Carnes                            8           HANAR8
+Laura Callahan                  Martine Rancé                  Folies gourmandes                        8           FOLIG8
+Laura Callahan                  Mary Saveley                   Victuailles en stock                     8           VICTE8
+Laura Callahan                  Maurizio Moroni                Reggiani Caseifici                       8           REGGC8
+Laura Callahan                  Michael Holz                   Richter Supermarkt                       8           RICSU8
+Laura Callahan                  Miguel Angel Paolino           Tortuga Restaurante                      8           TORTU8
+Laura Callahan                  Palle Ibsen                    Vaffeljernet                             8           VAFFE8
+Laura Callahan                  Patricia McKenna               Hungry Owl All-Night Grocers             8           HUNGO8
+Laura Callahan                  Patricio Simpson               Cactus Comidas para llevar               8           CACTU8
+Laura Callahan                  Paula Wilson                   Rattlesnake Canyon Grocery               8           RATTC8
+Laura Callahan                  Pedro Afonso                   Comércio Mineiro                         8           COMMI8
+Laura Callahan                  Peter Franken                  Frankenversand                           8           FRANK8
+Laura Callahan                  Philip Cramer                  Königlich Essen                          8           KOENE8
+Laura Callahan                  Pirkko Koskitalo               Wartian Herkku                           8           WARTH8
+Laura Callahan                  Renate Messner                 Lehmanns Marktstand                      8           LEHMS8
+Laura Callahan                  Rene Phillips                  Old World Delicatessen                   8           OLDWO8
+Laura Callahan                  Rita Müller                    Die Wandernde Kuh                        8           WANDK8
+Laura Callahan                  Roland Mendel                  Ernst Handel                             8           ERNSH8
+Laura Callahan                  Sven Ottlieb                   Drachenblut Delikatessen                 8           DRACD8
+Laura Callahan                  Thomas Hardy                   Around the Horn                          8           AROUT8
+Laura Callahan                  Yoshi Latimer                  Hungry Coyote Import Store               8           HUNGC8
+Laura Callahan                  Yvonne Moncada                 Océano Atlántico Ltda.                   8           OCEAN8
+Laura Callahan                  Zbyszek Piestrzeniewicz        Wolski Zajazd                            8           WOLZA8
+Margaret Peacock                Alejandra Camino               Romero y tomillo                         4           ROMEY4
+Margaret Peacock                Alexander Feuer                Morgenstern Gesundkost                   4           MORGK4
+Margaret Peacock                Ana Trujillo                   Ana Trujillo Emparedados y helados       4           ANATR4
+Margaret Peacock                Anabela Domingues              Tradiçao Hipermercados                   4           TRADH4
+Margaret Peacock                André Fonseca                  Gourmet Lanchonetes                      4           GOURL4
+Margaret Peacock                Ann Devon                      Eastern Connection                       4           EASTC4
+Margaret Peacock                Annette Roulet                 La maison d'Asie                         4           LAMAI4
+Margaret Peacock                Antonio Moreno                 Antonio Moreno Taquería                  4           ANTON4
+Margaret Peacock                Aria Cruz                      Familia Arquibaldo                       4           FAMIA4
+Margaret Peacock                Art Braunschweiger             Split Rail Beer & Ale                    4           SPLIR4
+Margaret Peacock                Bernardo Batista               Que Delícia                              4           QUEDE4
+Margaret Peacock                Carlos González                LILA-Supermercado                        4           LILAS4
+Margaret Peacock                Carlos Hernández               HILARION-Abastos                         4           HILAA4
+Margaret Peacock                Catherine Dewey                Maison Dewey                             4           MAISD4
+Margaret Peacock                Christina Berglund             Berglunds snabbköp                       4           BERGS4
+Margaret Peacock                Daniel Tonini                  La corne d'abondance                     4           LACOR4
+Margaret Peacock                Eduardo Saavedra               Galería del gastronómo                   4           GALED4
+Margaret Peacock                Elizabeth Lincoln              Bottom-Dollar Markets                    4           BOTTM4
+Margaret Peacock                Felipe Izquierdo               LINO-Delicateses                         4           LINOD4
+Margaret Peacock                Fran Wilson                    Lonesome Pine Restaurant                 4           LONEP4
+Margaret Peacock                Francisco Chang                Centro comercial Moctezuma               4           CENTC4
+Margaret Peacock                Frédérique Citeaux             Blondel père et fils                     4           BLONP4
+Margaret Peacock                Georg Pipps                    Piccolo und mehr                         4           PICCO4
+Margaret Peacock                Giovanni Rovelli               Magazzini Alimentari Riuniti             4           MAGAA4
+Margaret Peacock                Hanna Moos                     Blauer See Delikatessen                  4           BLAUS4
+Margaret Peacock                Helen Bennett                  Island Trading                           4           ISLAT4
+Margaret Peacock                Helvetius Nagy                 Trail's Head Gourmet Provisioners        4           TRAIH4
+Margaret Peacock                Henriette Pfalzheim            Ottilies Käseladen                       4           OTTIK4
+Margaret Peacock                Horst Kloss                    QUICK-Stop                               4           QUICK4
+Margaret Peacock                Howard Snyder                  Great Lakes Food Market                  4           GREAL4
+Margaret Peacock                Jaime Yorres                   Let's Stop N Shop                        4           LETSS4
+Margaret Peacock                Janete Limeira                 Ricardo Adocicados                       4           RICAR4
+Margaret Peacock                Jean Fresnière                 Mère Paillarde                           4           MEREP4
+Margaret Peacock                Jose Pavarotti                 Save-a-lot Markets                       4           SAVEA4
+Margaret Peacock                José Pedro Freyre              Godos Cocina Típica                      4           GODOS4
+Margaret Peacock                Jytte Petersen                 Simons bistro                            4           SIMOB4
+Margaret Peacock                Karin Josephs                  Toms Spezialitäten                       4           TOMSP4
+Margaret Peacock                Karl Jablonski                 White Clover Markets                     4           WHITC4
+Margaret Peacock                Laurence Lebihan               Bon app'                                 4           BONAP4
+Margaret Peacock                Lino Rodriguez                 Furia Bacalhau e Frutos do Mar           4           FURIB4
+Margaret Peacock                Liu Wong                       The Cracker Box                          4           THECR4
+Margaret Peacock                Lúcia Carvalho                 Queen Cozinha                            4           QUEEN4
+Margaret Peacock                Maria Anders                   Alfred's Futterkiste                     4           ALFKI4
+Margaret Peacock                Maria Larsson                  Folk och fä HB                           4           FOLKO4
+Margaret Peacock                Mario Pontes                   Hanari Carnes                            4           HANAR4
+Margaret Peacock                Martín Sommer                  Bólido Comidas preparadas                4           BOLID4
+Margaret Peacock                Martine Rancé                  Folies gourmandes                        4           FOLIG4
+Margaret Peacock                Mary Saveley                   Victuailles en stock                     4           VICTE4
+Margaret Peacock                Matti Karttunen                Wilman Kala                              4           WILMK4
+Margaret Peacock                Maurizio Moroni                Reggiani Caseifici                       4           REGGC4
+Margaret Peacock                Michael Holz                   Richter Supermarkt                       4           RICSU4
+Margaret Peacock                Miguel Angel Paolino           Tortuga Restaurante                      4           TORTU4
+Margaret Peacock                Palle Ibsen                    Vaffeljernet                             4           VAFFE4
+Margaret Peacock                Paolo Accorti                  Franchi S.p.A.                           4           FRANS4
+Margaret Peacock                Pascale Cartrain               Suprêmes délices                         4           SUPRD4
+Margaret Peacock                Patricia McKenna               Hungry Owl All-Night Grocers             4           HUNGO4
+Margaret Peacock                Patricio Simpson               Cactus Comidas para llevar               4           CACTU4
+Margaret Peacock                Paula Parente                  Wellington Importadora                   4           WELLI4
+Margaret Peacock                Paula Wilson                   Rattlesnake Canyon Grocery               4           RATTC4
+Margaret Peacock                Pedro Afonso                   Comércio Mineiro                         4           COMMI4
+Margaret Peacock                Peter Franken                  Frankenversand                           4           FRANK4
+Margaret Peacock                Philip Cramer                  Königlich Essen                          4           KOENE4
+Margaret Peacock                Pirkko Koskitalo               Wartian Herkku                           4           WARTH4
+Margaret Peacock                Renate Messner                 Lehmanns Marktstand                      4           LEHMS4
+Margaret Peacock                Rene Phillips                  Old World Delicatessen                   4           OLDWO4
+Margaret Peacock                Rita Müller                    Die Wandernde Kuh                        4           WANDK4
+Margaret Peacock                Roland Mendel                  Ernst Handel                             4           ERNSH4
+Margaret Peacock                Sergio Gutiérrez               Rancho grande                            4           RANCH4
+Margaret Peacock                Sven Ottlieb                   Drachenblut Delikatessen                 4           DRACD4
+Margaret Peacock                Thomas Hardy                   Around the Horn                          4           AROUT4
+Margaret Peacock                Victoria Ashworth              B's Beverages                            4           BSBEV4
+Margaret Peacock                Yang Wang                      Chop-suey Chinese                        4           CHOPS4
+Margaret Peacock                Yoshi Latimer                  Hungry Coyote Import Store               4           HUNGC4
+Margaret Peacock                Yvonne Moncada                 Océano Atlántico Ltda.                   4           OCEAN4
+Margaret Peacock                Zbyszek Piestrzeniewicz        Wolski Zajazd                            4           WOLZA4
+Michael Suyama                  André Fonseca                  Gourmet Lanchonetes                      6           GOURL6
+Michael Suyama                  Annette Roulet                 La maison d'Asie                         6           LAMAI6
+Michael Suyama                  Art Braunschweiger             Split Rail Beer & Ale                    6           SPLIR6
+Michael Suyama                  Bernardo Batista               Que Delícia                              6           QUEDE6
+Michael Suyama                  Carlos González                LILA-Supermercado                        6           LILAS6
+Michael Suyama                  Carlos Hernández               HILARION-Abastos                         6           HILAA6
+Michael Suyama                  Daniel Tonini                  La corne d'abondance                     6           LACOR6
+Michael Suyama                  Dominique Perrier              Spécialités du monde                     6           SPECD6
+Michael Suyama                  Elizabeth Lincoln              Bottom-Dollar Markets                    6           BOTTM6
+Michael Suyama                  Fran Wilson                    Lonesome Pine Restaurant                 6           LONEP6
+Michael Suyama                  Frédérique Citeaux             Blondel père et fils                     6           BLONP6
+Michael Suyama                  Georg Pipps                    Piccolo und mehr                         6           PICCO6
+Michael Suyama                  Giovanni Rovelli               Magazzini Alimentari Riuniti             6           MAGAA6
+Michael Suyama                  Hanna Moos                     Blauer See Delikatessen                  6           BLAUS6
+Michael Suyama                  Hari Kumar                     Seven Seas Imports                       6           SEVES6
+Michael Suyama                  Helen Bennett                  Island Trading                           6           ISLAT6
+Michael Suyama                  Helvetius Nagy                 Trail's Head Gourmet Provisioners        6           TRAIH6
+Michael Suyama                  Henriette Pfalzheim            Ottilies Käseladen                       6           OTTIK6
+Michael Suyama                  Howard Snyder                  Great Lakes Food Market                  6           GREAL6
+Michael Suyama                  Jaime Yorres                   Let's Stop N Shop                        6           LETSS6
+Michael Suyama                  Jean Fresnière                 Mère Paillarde                           6           MEREP6
+Michael Suyama                  Jose Pavarotti                 Save-a-lot Markets                       6           SAVEA6
+Michael Suyama                  Karin Josephs                  Toms Spezialitäten                       6           TOMSP6
+Michael Suyama                  Liz Nixon                      The Big Cheese                           6           THEBI6
+Michael Suyama                  Lúcia Carvalho                 Queen Cozinha                            6           QUEEN6
+Michael Suyama                  Maria Anders                   Alfreds Futterkiste                      6           ALFKI6
+Michael Suyama                  Maria Larsson                  Folk och fä HB                           6           FOLKO6
+Michael Suyama                  Martine Rancé                  Folies gourmandes                        6           FOLIG6
+Michael Suyama                  Palle Ibsen                    Vaffeljernet                             6           VAFFE6
+Michael Suyama                  Pascale Cartrain               Suprêmes délices                         6           SUPRD6
+Michael Suyama                  Patricia McKenna               Hungry Owl All-Night Grocers             6           HUNGO6
+Michael Suyama                  Paul Henriot                   Vins et alcools Chevalier                6           VINET6
+Michael Suyama                  Paula Wilson                   Rattlesnake Canyon Grocery               6           RATTC6
+Michael Suyama                  Peter Franken                  Frankenversand                           6           FRANK6
+Michael Suyama                  Pirkko Koskitalo               Wartian Herkku                           6           WARTH6
+Michael Suyama                  Rene Phillips                  Old World Delicatessen                   6           OLDWO6
+Michael Suyama                  Rita Müller                    Die Wandernde Kuh                        6           WANDK6
+Michael Suyama                  Roland Mendel                  Ernst Handel                             6           ERNSH6
+Michael Suyama                  Sergio Gutiérrez               Rancho grande                            6           RANCH6
+Michael Suyama                  Thomas Hardy                   Around the Horn                          6           AROUT6
+Michael Suyama                  Victoria Ashworth              B's Beverages                            6           BSBEV6
+Michael Suyama                  Yang Wang                      Chop-suey Chinese                        6           CHOPS6
+Michael Suyama                  Zbyszek Piestrzeniewicz        Wolski Zajazd                            6           WOLZA6
+Nancy Davolio                   Alejandra Camino               Romero y tomillo                         1           ROMEY1
+Nancy Davolio                   Anabela Domingues              Tradiçao Hipermercados                   1           TRADH1
+Nancy Davolio                   André Fonseca                  Gourmet Lanchonetes                      1           GOURL1
+Nancy Davolio                   Ann Devon                      Eastern Connection                       1           EASTC1
+Nancy Davolio                   Annette Roulet                 La maison d'Asie                         1           LAMAI1
+Nancy Davolio                   Antonio Moreno                 Antonio Moreno Taquería                  1           ANTON1
+Nancy Davolio                   Art Braunschweiger             Split Rail Beer & Ale                    1           SPLIR1
+Nancy Davolio                   Bernardo Batista               Que Delícia                              1           QUEDE1
+Nancy Davolio                   Carine Schmitt                 France restauration                      1           FRANR1
+Nancy Davolio                   Carlos González                LILA-Supermercado                        1           LILAS1
+Nancy Davolio                   Carlos Hernández               HILARION-Abastos                         1           HILAA1
+Nancy Davolio                   Christina Berglund             Berglunds snabbköp                       1           BERGS1
+Nancy Davolio                   Eduardo Saavedra               Galería del gastronómo                   1           GALED1
+Nancy Davolio                   Elizabeth Lincoln              Bottom-Dollar Markets                    1           BOTTM1
+Nancy Davolio                   Felipe Izquierdo               LINO-Delicateses                         1           LINOD1
+Nancy Davolio                   Fran Wilson                    Lonesome Pine Restaurant                 1           LONEP1
+Nancy Davolio                   Giovanni Rovelli               Magazzini Alimentari Riuniti             1           MAGAA1
+Nancy Davolio                   Guillermo Fernández            Pericles Comidas clásicas                1           PERIC1
+Nancy Davolio                   Hari Kumar                     Seven Seas Imports                       1           SEVES1
+Nancy Davolio                   Helen Bennett                  Island Trading                           1           ISLAT1
+Nancy Davolio                   Henriette Pfalzheim            Ottilies Käseladen                       1           OTTIK1
+Nancy Davolio                   Horst Kloss                    QUICK-Stop                               1           QUICK1
+Nancy Davolio                   Howard Snyder                  Great Lakes Food Market                  1           GREAL1
+Nancy Davolio                   Jaime Yorres                   Let's Stop N Shop                        1           LETSS1
+Nancy Davolio                   Janete Limeira                 Ricardo Adocicados                       1           RICAR1
+Nancy Davolio                   Janine Labrune                 Du monde entier                          1           DUMON1
+Nancy Davolio                   Jean Fresnière                 Mère Paillarde                           1           MEREP1
+Nancy Davolio                   John Steel                     Lazy K Kountry Store                     1           LAZYK1
+Nancy Davolio                   Jonas Bergulfsen               Santé Gourmet                            1           SANTG1
+Nancy Davolio                   Jose Pavarotti                 Save-a-lot Markets                       1           SAVEA1
+Nancy Davolio                   José Pedro Freyre              Godos Cocina Típica                      1           GODOS1
+Nancy Davolio                   Karl Jablonski                 White Clover Markets                     1           WHITC1
+Nancy Davolio                   Laurence Lebihan               Bon app'                                 1           BONAP1
+Nancy Davolio                   Lino Rodriguez                 Furia Bacalhau e Frutos do Mar           1           FURIB1
+Nancy Davolio                   Liz Nixon                      The Big Cheese                           1           THEBI1
+Nancy Davolio                   Manuel Pereira                 GROSELLA-Restaurante                     1           GROSR1
+Nancy Davolio                   Maria Anders                   Alfred's Futterkiste                     1           ALFKI1
+Nancy Davolio                   Maria Larsson                  Folk och fä HB                           1           FOLKO1
+Nancy Davolio                   Mario Pontes                   Hanari Carnes                            1           HANAR1
+Nancy Davolio                   Martine Rancé                  Folies gourmandes                        1           FOLIG1
+Nancy Davolio                   Mary Saveley                   Victuailles en stock                     1           VICTE1
+Nancy Davolio                   Matti Karttunen                Wilman Kala                              1           WILMK1
+Nancy Davolio                   Maurizio Moroni                Reggiani Caseifici                       1           REGGC1
+Nancy Davolio                   Michael Holz                   Richter Supermarkt                       1           RICSU1
+Nancy Davolio                   Miguel Angel Paolino           Tortuga Restaurante                      1           TORTU1
+Nancy Davolio                   Palle Ibsen                    Vaffeljernet                             1           VAFFE1
+Nancy Davolio                   Paolo Accorti                  Franchi S.p.A.                           1           FRANS1
+Nancy Davolio                   Pascale Cartrain               Suprêmes délices                         1           SUPRD1
+Nancy Davolio                   Patricia McKenna               Hungry Owl All-Night Grocers             1           HUNGO1
+Nancy Davolio                   Paula Parente                  Wellington Importadora                   1           WELLI1
+Nancy Davolio                   Paula Wilson                   Rattlesnake Canyon Grocery               1           RATTC1
+Nancy Davolio                   Pedro Afonso                   Comércio Mineiro                         1           COMMI1
+Nancy Davolio                   Peter Franken                  Frankenversand                           1           FRANK1
+Nancy Davolio                   Philip Cramer                  Königlich Essen                          1           KOENE1
+Nancy Davolio                   Pirkko Koskitalo               Wartian Herkku                           1           WARTH1
+Nancy Davolio                   Rene Phillips                  Old World Delicatessen                   1           OLDWO1
+Nancy Davolio                   Rita Müller                    Die Wandernde Kuh                        1           WANDK1
+Nancy Davolio                   Roland Mendel                  Ernst Handel                             1           ERNSH1
+Nancy Davolio                   Sergio Gutiérrez               Rancho grande                            1           RANCH1
+Nancy Davolio                   Sven Ottlieb                   Drachenblut Delikatessen                 1           DRACD1
+Nancy Davolio                   Thomas Hardy                   Around the Horn                          1           AROUT1
+Nancy Davolio                   Victoria Ashworth              B's Beverages                            1           BSBEV1
+Nancy Davolio                   Yang Wang                      Chop-suey Chinese                        1           CHOPS1
+Nancy Davolio                   Yoshi Latimer                  Hungry Coyote Import Store               1           HUNGC1
+Nancy Davolio                   Zbyszek Piestrzeniewicz        Wolski Zajazd                            1           WOLZA1
+Robert King                     Ana Trujillo                   Ana Trujillo Emparedados y helados       7           ANATR7
+Robert King                     Anabela Domingues              Tradiçao Hipermercados                   7           TRADH7
+Robert King                     André Fonseca                  Gourmet Lanchonetes                      7           GOURL7
+Robert King                     Ann Devon                      Eastern Connection                       7           EASTC7
+Robert King                     Annette Roulet                 La maison d'Asie                         7           LAMAI7
+Robert King                     Antonio Moreno                 Antonio Moreno Taquería                  7           ANTON7
+Robert King                     Aria Cruz                      Familia Arquibaldo                       7           FAMIA7
+Robert King                     Art Braunschweiger             Split Rail Beer & Ale                    7           SPLIR7
+Robert King                     Carlos Hernández               HILARION-Abastos                         7           HILAA7
+Robert King                     Catherine Dewey                Maison Dewey                             7           MAISD7
+Robert King                     Elizabeth Brown                Consolidated Holdings                    7           CONSH7
+Robert King                     Elizabeth Lincoln              Bottom-Dollar Markets                    7           BOTTM7
+Robert King                     Georg Pipps                    Piccolo und mehr                         7           PICCO7
+Robert King                     Giovanni Rovelli               Magazzini Alimentari Riuniti             7           MAGAA7
+Robert King                     Guillermo Fernández            Pericles Comidas clásicas                7           PERIC7
+Robert King                     Hari Kumar                     Seven Seas Imports                       7           SEVES7
+Robert King                     Horst Kloss                    QUICK-Stop                               7           QUICK7
+Robert King                     Isabel de Castro               Princesa Isabel Vinhos                   7           PRINI7
+Robert King                     Janine Labrune                 Du monde entier                          7           DUMON7
+Robert King                     Jean Fresnière                 Mère Paillarde                           7           MEREP7
+Robert King                     Jonas Bergulfsen               Santé Gourmet                            7           SANTG7
+Robert King                     Jose Pavarotti                 Save-a-lot Markets                       7           SAVEA7
+Robert King                     José Pedro Freyre              Godos Cocina Típica                      7           GODOS7
+Robert King                     Jytte Petersen                 Simons bistro                            7           SIMOB7
+Robert King                     Karl Jablonski                 White Clover Markets                     7           WHITC7
+Robert King                     Laurence Lebihan               Bon app'                                 7           BONAP7
+Robert King                     Liu Wong                       The Cracker Box                          7           THECR7
+Robert King                     Lúcia Carvalho                 Queen Cozinha                            7           QUEEN7
+Robert King                     Maria Larsson                  Folk och fä HB                           7           FOLKO7
+Robert King                     Matti Karttunen                Wilman Kala                              7           WILMK7
+Robert King                     Maurizio Moroni                Reggiani Caseifici                       7           REGGC7
+Robert King                     Michael Holz                   Richter Supermarkt                       7           RICSU7
+Robert King                     Miguel Angel Paolino           Tortuga Restaurante                      7           TORTU7
+Robert King                     Palle Ibsen                    Vaffeljernet                             7           VAFFE7
+Robert King                     Pascale Cartrain               Suprêmes délices                         7           SUPRD7
+Robert King                     Patricia McKenna               Hungry Owl All-Night Grocers             7           HUNGO7
+Robert King                     Patricio Simpson               Cactus Comidas para llevar               7           CACTU7
+Robert King                     Paula Parente                  Wellington Importadora                   7           WELLI7
+Robert King                     Renate Messner                 Lehmanns Marktstand                      7           LEHMS7
+Robert King                     Rita Müller                    Die Wandernde Kuh                        7           WANDK7
+Robert King                     Roland Mendel                  Ernst Handel                             7           ERNSH7
+Robert King                     Sven Ottlieb                   Drachenblut Delikatessen                 7           DRACD7
+Robert King                     Victoria Ashworth              B's Beverages                            7           BSBEV7
+Robert King                     Yang Wang                      Chop-suey Chinese                        7           CHOPS7
+Robert King                     Yvonne Moncada                 Océano Atlántico Ltda.                   7           OCEAN7
+Steven Buchanan                 Alexander Feuer                Morgenstern Gesundkost                   5           MORGK5
+Steven Buchanan                 Annette Roulet                 La maison d'Asie                         5           LAMAI5
+Steven Buchanan                 Aria Cruz                      Familia Arquibaldo                       5           FAMIA5
+Steven Buchanan                 Carlos González                LILA-Supermercado                        5           LILAS5
+Steven Buchanan                 Catherine Dewey                Maison Dewey                             5           MAISD5
+Steven Buchanan                 Christina Berglund             Berglunds snabbköp                       5           BERGS5
+Steven Buchanan                 Dominique Perrier              Spécialités du monde                     5           SPECD5
+Steven Buchanan                 Felipe Izquierdo               LINO-Delicateses                         5           LINOD5
+Steven Buchanan                 Frédérique Citeaux             Blondel père et fils                     5           BLONP5
+Steven Buchanan                 Guillermo Fernández            Pericles Comidas clásicas                5           PERIC5
+Steven Buchanan                 Hari Kumar                     Seven Seas Imports                       5           SEVES5
+Steven Buchanan                 Horst Kloss                    QUICK-Stop                               5           QUICK5
+Steven Buchanan                 Isabel de Castro               Princesa Isabel Vinhos                   5           PRINI5
+Steven Buchanan                 Janete Limeira                 Ricardo Adocicados                       5           RICAR5
+Steven Buchanan                 Jose Pavarotti                 Save-a-lot Markets                       5           SAVEA5
+Steven Buchanan                 José Pedro Freyre              Godos Cocina Típica                      5           GODOS5
+Steven Buchanan                 Karl Jablonski                 White Clover Markets                     5           WHITC5
+Steven Buchanan                 Laurence Lebihan               Bon app'                                 5           BONAP5
+Steven Buchanan                 Lúcia Carvalho                 Queen Cozinha                            5           QUEEN5
+Steven Buchanan                 Maria Larsson                  Folk och fä HB                           5           FOLKO5
+Steven Buchanan                 Mario Pontes                   Hanari Carnes                            5           HANAR5
+Steven Buchanan                 Maurizio Moroni                Reggiani Caseifici                       5           REGGC5
+Steven Buchanan                 Pascale Cartrain               Suprêmes délices                         5           SUPRD5
+Steven Buchanan                 Paul Henriot                   Vins et alcools Chevalier                5           VINET5
+Steven Buchanan                 Paula Wilson                   Rattlesnake Canyon Grocery               5           RATTC5
+Steven Buchanan                 Peter Franken                  Frankenversand                           5           FRANK5
+Steven Buchanan                 Pirkko Koskitalo               Wartian Herkku                           5           WARTH5
+Steven Buchanan                 Yang Wang                      Chop-suey Chinese                        5           CHOPS5
+Steven Buchanan                 Zbyszek Piestrzeniewicz        Wolski Zajazd                            5           WOLZA5
+
+(464 rows affected)
+
+
+Completion time: 2020-02-08T09:40:56.3795706-06:00
+
+ContactName                    Names
+------------------------------ -------------------------------
+Ana Trujillo                   Robert King
+Antonio Moreno                 Robert King
+Laurence Lebihan               Robert King
+Elizabeth Lincoln              Robert King
+Victoria Ashworth              Robert King
+Patricio Simpson               Robert King
+Yang Wang                      Robert King
+Elizabeth Brown                Robert King
+Rita Müller                    Robert King
+Sven Ottlieb                   Robert King
+Janine Labrune                 Robert King
+Ann Devon                      Robert King
+Roland Mendel                  Robert King
+Aria Cruz                      Robert King
+Maria Larsson                  Robert King
+José Pedro Freyre              Robert King
+André Fonseca                  Robert King
+Carlos Hernández               Robert King
+Patricia McKenna               Robert King
+Annette Roulet                 Robert King
+Renate Messner                 Robert King
+Giovanni Rovelli               Robert King
+Catherine Dewey                Robert King
+Jean Fresnière                 Robert King
+Yvonne Moncada                 Robert King
+Guillermo Fernández            Robert King
+Georg Pipps                    Robert King
+Isabel de Castro               Robert King
+Lúcia Carvalho                 Robert King
+Horst Kloss                    Robert King
+Maurizio Moroni                Robert King
+Michael Holz                   Robert King
+Jonas Bergulfsen               Robert King
+Jose Pavarotti                 Robert King
+Hari Kumar                     Robert King
+Jytte Petersen                 Robert King
+Art Braunschweiger             Robert King
+Pascale Cartrain               Robert King
+Liu Wong                       Robert King
+Miguel Angel Paolino           Robert King
+Anabela Domingues              Robert King
+Palle Ibsen                    Robert King
+Paula Parente                  Robert King
+Karl Jablonski                 Robert King
+Matti Karttunen                Robert King
+
+(45 rows affected)
+
+Names                           CompanyName
+------------------------------- ----------------------------------------
+Janet Leverling                 Chop-suey Chinese
+Margaret Peacock                Chop-suey Chinese
+Michael Suyama                  Chop-suey Chinese
+Nancy Davolio                   Chop-suey Chinese
+Robert King                     Chop-suey Chinese
+Steven Buchanan                 Chop-suey Chinese
+
+(6 rows affected)
+
+
+Completion time: 2020-02-08T09:42:10.5995726-06:00
+
+
+

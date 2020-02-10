@@ -6,4 +6,8 @@
     <RootNamespace>_28Jan.Net</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Figgle" Version="0.3.0" />
+  </ItemGroup>
+
 </Project>

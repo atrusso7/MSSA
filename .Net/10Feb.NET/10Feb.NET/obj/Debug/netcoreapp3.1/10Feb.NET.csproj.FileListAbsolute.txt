@@ -1,0 +1,13 @@
+C:\Users\Antho\Desktop\MSSA\.Net\10Feb.NET\10Feb.NET\bin\Debug\netcoreapp3.1\10Feb.NET.exe
+C:\Users\Antho\Desktop\MSSA\.Net\10Feb.NET\10Feb.NET\bin\Debug\netcoreapp3.1\10Feb.NET.deps.json
+C:\Users\Antho\Desktop\MSSA\.Net\10Feb.NET\10Feb.NET\bin\Debug\netcoreapp3.1\10Feb.NET.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\.Net\10Feb.NET\10Feb.NET\bin\Debug\netcoreapp3.1\10Feb.NET.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\.Net\10Feb.NET\10Feb.NET\bin\Debug\netcoreapp3.1\10Feb.NET.dll
+C:\Users\Antho\Desktop\MSSA\.Net\10Feb.NET\10Feb.NET\bin\Debug\netcoreapp3.1\10Feb.NET.pdb
+C:\Users\Antho\Desktop\MSSA\.Net\10Feb.NET\10Feb.NET\obj\Debug\netcoreapp3.1\10Feb.NET.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\.Net\10Feb.NET\10Feb.NET\obj\Debug\netcoreapp3.1\10Feb.NET.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\.Net\10Feb.NET\10Feb.NET\obj\Debug\netcoreapp3.1\10Feb.NET.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\.Net\10Feb.NET\10Feb.NET\obj\Debug\netcoreapp3.1\10Feb.NET.dll
+C:\Users\Antho\Desktop\MSSA\.Net\10Feb.NET\10Feb.NET\obj\Debug\netcoreapp3.1\10Feb.NET.pdb
+C:\Users\Antho\Desktop\MSSA\.Net\10Feb.NET\10Feb.NET\bin\Debug\netcoreapp3.1\Figgle.dll
+C:\Users\Antho\Desktop\MSSA\.Net\10Feb.NET\10Feb.NET\obj\Debug\netcoreapp3.1\10Feb.NET.csproj.CopyComplete

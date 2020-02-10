@@ -1,0 +1,11 @@
+C:\Users\Antho\Desktop\MSSA\.Net\EX05\EX05\bin\Debug\netcoreapp3.1\EX05.exe
+C:\Users\Antho\Desktop\MSSA\.Net\EX05\EX05\bin\Debug\netcoreapp3.1\EX05.deps.json
+C:\Users\Antho\Desktop\MSSA\.Net\EX05\EX05\bin\Debug\netcoreapp3.1\EX05.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\.Net\EX05\EX05\bin\Debug\netcoreapp3.1\EX05.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\.Net\EX05\EX05\bin\Debug\netcoreapp3.1\EX05.dll
+C:\Users\Antho\Desktop\MSSA\.Net\EX05\EX05\bin\Debug\netcoreapp3.1\EX05.pdb
+C:\Users\Antho\Desktop\MSSA\.Net\EX05\EX05\obj\Debug\netcoreapp3.1\EX05.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\.Net\EX05\EX05\obj\Debug\netcoreapp3.1\EX05.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\.Net\EX05\EX05\obj\Debug\netcoreapp3.1\EX05.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\.Net\EX05\EX05\obj\Debug\netcoreapp3.1\EX05.dll
+C:\Users\Antho\Desktop\MSSA\.Net\EX05\EX05\obj\Debug\netcoreapp3.1\EX05.pdb

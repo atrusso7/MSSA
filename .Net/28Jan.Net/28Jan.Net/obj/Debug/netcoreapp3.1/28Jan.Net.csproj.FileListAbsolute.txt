@@ -9,3 +9,5 @@ C:\Users\Antho\Desktop\MSSA\.Net\28Jan.Net\28Jan.Net\obj\Debug\netcoreapp3.1\28J
 C:\Users\Antho\Desktop\MSSA\.Net\28Jan.Net\28Jan.Net\obj\Debug\netcoreapp3.1\28Jan.Net.AssemblyInfo.cs
 C:\Users\Antho\Desktop\MSSA\.Net\28Jan.Net\28Jan.Net\obj\Debug\netcoreapp3.1\28Jan.Net.dll
 C:\Users\Antho\Desktop\MSSA\.Net\28Jan.Net\28Jan.Net\obj\Debug\netcoreapp3.1\28Jan.Net.pdb
+C:\Users\Antho\Desktop\MSSA\.Net\28Jan.Net\28Jan.Net\bin\Debug\netcoreapp3.1\Figgle.dll
+C:\Users\Antho\Desktop\MSSA\.Net\28Jan.Net\28Jan.Net\obj\Debug\netcoreapp3.1\28Jan.Net.csproj.CopyComplete

@@ -64,12 +64,19 @@ namespace _28Jan.Net
             Pig newPig = new Pig();
             Snake newSnake = new Snake();
             Monkey newMonkey = new Monkey();
+            Zombie newZombie = new Zombie();
             WriteLine(newPig.Noise());
             WriteLine(newSnake.Noise()); 
             WriteLine(newMonkey.Noise());
-            WriteLine(newPig.Eat("slop"));
-            WriteLine(newPig.Eat("poo"));
-
+            WriteLine(newZombie.Noise());
+            WriteLine(newPig.Eat());
+            WriteLine(newSnake.Eat());
+            WriteLine(newMonkey.Eat());
+            WriteLine(newZombie.Eat());
+            WriteLine(newPig.Move());
+            WriteLine(newSnake.Move());
+            WriteLine(newMonkey.Move());
+            WriteLine(newZombie.Move());
         }
         static void Radius() //includes error handling for all non-int and non-positive entrys
         {
