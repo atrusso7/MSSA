@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\10Feb.NET\\10Feb.NET\\10Feb.NET.csproj": {}
+    "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\11Feb.NET\\11Feb.NET\\11Feb.NET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\10Feb.NET\\10Feb.NET\\10Feb.NET.csproj": {
+    "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\11Feb.NET\\11Feb.NET\\11Feb.NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\10Feb.NET\\10Feb.NET\\10Feb.NET.csproj",
-        "projectName": "10Feb.NET",
-        "projectPath": "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\10Feb.NET\\10Feb.NET\\10Feb.NET.csproj",
+        "projectUniqueName": "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\11Feb.NET\\11Feb.NET\\11Feb.NET.csproj",
+        "projectName": "11Feb.NET",
+        "projectPath": "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\11Feb.NET\\11Feb.NET\\11Feb.NET.csproj",
         "packagesPath": "C:\\Users\\Antho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\10Feb.NET\\10Feb.NET\\obj\\",
+        "outputPath": "C:\\Users\\Antho\\Desktop\\MSSA\\.Net\\11Feb.NET\\11Feb.NET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -46,9 +46,9 @@
               "target": "Package",
               "version": "[6.2.0.58, )"
             },
-            "Figgle": {
+            "CenterSpace.NMath.Stats": {
               "target": "Package",
-              "version": "[0.3.0, )"
+              "version": "[4.2.0.58, )"
             }
           },
           "imports": [

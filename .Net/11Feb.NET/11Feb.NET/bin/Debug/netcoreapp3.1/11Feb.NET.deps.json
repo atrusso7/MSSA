@@ -1,0 +1,86 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "11Feb.NET/1.0.0": {
+        "dependencies": {
+          "CenterSpace.NMath": "6.2.0.58",
+          "CenterSpace.NMath.Stats": "4.2.0.58",
+          "NMath": "6.2.0.58"
+        },
+        "runtime": {
+          "11Feb.NET.dll": {}
+        }
+      },
+      "CenterSpace.NMath/6.2.0.58": {
+        "dependencies": {
+          "Microsoft.Solver.Foundation": "3.1.0"
+        }
+      },
+      "CenterSpace.NMath.Stats/4.2.0.58": {
+        "dependencies": {
+          "CenterSpace.NMath": "6.2.0.58"
+        },
+        "runtime": {
+          "lib/net40/NMathStats.dll": {
+            "assemblyVersion": "4.2.0.58",
+            "fileVersion": "4.2.0.58"
+          }
+        }
+      },
+      "Microsoft.Solver.Foundation/3.1.0": {
+        "runtime": {
+          "lib/Microsoft.Solver.Foundation.dll": {
+            "assemblyVersion": "3.0.2.10889",
+            "fileVersion": "3.0.2.10889"
+          }
+        }
+      },
+      "NMath/6.2.0.58": {
+        "runtime": {
+          "NMath.dll": {
+            "assemblyVersion": "6.2.0.58",
+            "fileVersion": "6.2.0.58"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11Feb.NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CenterSpace.NMath/6.2.0.58": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Lbec/geGygiTpbot+fX8zEDBBwehBdYmV7IwH539pPMCaECRXLe8xk/MpsdKlkzMyMboO0x3pB0ICB2fAabO7Q==",
+      "path": "centerspace.nmath/6.2.0.58",
+      "hashPath": "centerspace.nmath.6.2.0.58.nupkg.sha512"
+    },
+    "CenterSpace.NMath.Stats/4.2.0.58": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3vpLTH4PMJKSC+ptH68Ai9+E5yIyWZehxluFz7DUPsm6+0Zky+JoDHZ2lPfQEG8eH81vDo1HPlp8B5EkwKqa2Q==",
+      "path": "centerspace.nmath.stats/4.2.0.58",
+      "hashPath": "centerspace.nmath.stats.4.2.0.58.nupkg.sha512"
+    },
+    "Microsoft.Solver.Foundation/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-02dYXlaV3Px4zIX7v+K5e7aPsdUqQm/IQ6ZvmcCBH/+FkSciHAdKQoLqEP1zLyWCWBy1Q90j9uIRzXNDEKe9Gg==",
+      "path": "microsoft.solver.foundation/3.1.0",
+      "hashPath": "microsoft.solver.foundation.3.1.0.nupkg.sha512"
+    },
+    "NMath/6.2.0.58": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

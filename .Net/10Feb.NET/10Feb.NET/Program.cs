@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
 using Figgle;
+using CenterSpace.NMath.Stats;
 
 namespace _10Feb.NET
 {
@@ -54,29 +55,32 @@ namespace _10Feb.NET
             //    Console.WriteLine(i);
             //}
 
-            //int[] numbers1 = { 100, 35, 2, 11, 23, 3, 11 };
-            //double average = numbers1.Average();
-            //Console.WriteLine("Average: " + average);
+            int[] numbers1 = { 100, 35, 2, 11, 23, 3, 11 };
+            Console.WriteLine(StatsFunctions.Mean(numbers1));
+            Console.WriteLine("Median: " + StatsFunctions.Median(numbers1));
+            Console.WriteLine("Mode: " + StatsFunctions.Mode(numbers1));
+            double average = numbers1.Average();
+            Console.WriteLine("Average: " + average);
 
-            //int numberCount = numbers1.Count();
-            //int halfIndex = numbers1.Count() / 2;
-            //var sortedNumbers = numbers1.OrderBy(n => n);
-            //double median;
-            //if ((numberCount % 2) == 0)
-            //{
-            //    median = ((sortedNumbers.ElementAt(halfIndex) +
-            //        sortedNumbers.ElementAt(halfIndex-1)) / 2);
-            //}
-            //else
-            //{
-            //    median = sortedNumbers.ElementAt(halfIndex);
-            //}
-            //Console.WriteLine(("Median: " + median));
+            int numberCount = numbers1.Count();
+            int halfIndex = numbers1.Count() / 2;
+            var sortedNumbers = numbers1.OrderBy(n => n);
+            double median;
+            if ((numberCount % 2) == 0)
+            {
+                median = ((sortedNumbers.ElementAt(halfIndex) +
+                    sortedNumbers.ElementAt(halfIndex - 1)) / 2);
+            }
+            else
+            {
+                median = sortedNumbers.ElementAt(halfIndex);
+            }
+            Console.WriteLine(("Median: " + median));
 
-            //var mode = numbers1.GroupBy(n => n).
-            //OrderByDescending(g => g.Count()).
-            //Select(g => g.Key).FirstOrDefault();
-            //Console.WriteLine(("Mode: " + mode));
+            var mode = numbers1.GroupBy(n => n).
+            OrderByDescending(g => g.Count()).
+            Select(g => g.Key).FirstOrDefault();
+            Console.WriteLine(("Mode: " + mode));
         }
         public struct Person
         {
