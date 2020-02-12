@@ -1,0 +1,392 @@
+﻿ContactName                    Country
+------------------------------ ---------------
+Alejandra Camino               Spain
+Alexander Feuer                Germany
+Ana Trujillo                   Mexico
+Anabela Domingues              Brazil
+André Fonseca                  Brazil
+Ann Devon                      UK
+Anne Heikkonen                 Finland
+Annette Roulet                 France
+Antonio del Valle Saavedra     Spain
+Antonio Moreno                 Mexico
+Aria Cruz                      Brazil
+Art Braunschweiger             USA
+Beate Vileid                   Norway
+Bernardo Batista               Brazil
+Carine Schmitt                 France
+Carlos Diaz                    Brazil
+Carlos González                Venezuela
+Carlos Hernández               Venezuela
+Catherine Dewey                Belgium
+Chandra Leka                   Singapore
+Chantal Goulet                 Canada
+Charlotte Cooper               UK
+Cheryl Saylor                  USA
+Christina Berglund             Sweden
+Daniel Tonini                  France
+Diego Roel                     Spain
+Dirk Luchte                    Netherlands
+Dominique Perrier              France
+Eduardo Saavedra               Spain
+Eliane Noz                     France
+Elio Rossi                     Italy
+Elizabeth Brown                UK
+Elizabeth Lincoln              Canada
+Felipe Izquierdo               Venezuela
+Fran Wilson                    USA
+Francisco Chang                Mexico
+Frédérique Citeaux             France
+Georg Pipps                    Austria
+Giovanni Giudici               Italy
+Giovanni Rovelli               Italy
+Guillermo Fernández            Mexico
+Guylène Nodier                 France
+Hanna Moos                     Germany
+Hari Kumar                     UK
+Helen Bennett                  UK
+Helvetius Nagy                 USA
+Henriette Pfalzheim            Germany
+Horst Kloss                    Germany
+Howard Snyder                  USA
+Ian Devling                    Australia
+Isabel de Castro               Portugal
+Jaime Yorres                   USA
+Janete Limeira                 Brazil
+Janine Labrune                 France
+Jean Fresnière                 Canada
+Jean-Guy Lauzon                Canada
+John Steel                     USA
+Jonas Bergulfsen               Norway
+Jose Pavarotti                 USA
+José Pedro Freyre              Spain
+Jytte Petersen                 Denmark
+Karin Josephs                  Germany
+Karl Jablonski                 USA
+Lars Peterson                  Sweden
+Laurence Lebihan               France
+Lino Rodriguez                 Portugal
+Liu Wong                       USA
+Liz Nixon                      USA
+Lúcia Carvalho                 Brazil
+Manuel Pereira                 Venezuela
+Maria Anders                   Germany
+Maria Larsson                  Sweden
+Marie Bertrand                 France
+Marie Delamare                 France
+Mario Pontes                   Brazil
+Martin Bein                    Germany
+Martín Sommer                  Spain
+Martine Rancé                  France
+Mary Saveley                   France
+Matti Karttunen                Finland
+Maurizio Moroni                Italy
+Mayumi Ohno                    Japan
+Michael Björn                  Sweden
+Michael Holz                   Switzerland
+Miguel Angel Paolino           Mexico
+Niels Petersen                 Denmark
+Palle Ibsen                    Denmark
+Paolo Accorti                  Italy
+Pascale Cartrain               Belgium
+Patricia McKenna               Ireland
+Patricio Simpson               Argentina
+Paul Henriot                   France
+Paula Parente                  Brazil
+Paula Wilson                   USA
+Pedro Afonso                   Brazil
+Peter Franken                  Germany
+Peter Wilson                   UK
+Petra Winkler                  Germany
+Philip Cramer                  Germany
+Pirkko Koskitalo               Finland
+Regina Murphy                  USA
+Renate Messner                 Germany
+Rene Phillips                  USA
+Rita Müller                    Germany
+Robb Merchant                  USA
+Roland Mendel                  Austria
+Sergio Gutiérrez               Argentina
+Shelley Burke                  USA
+Simon Crowther                 UK
+Sven Ottlieb                   Germany
+Sven Petersen                  Germany
+Thomas Hardy                   UK
+Victoria Ashworth              UK
+Wendy Mackenzie                Australia
+Yang Wang                      Switzerland
+Yoshi Latimer                  USA
+Yoshi Nagase                   Japan
+Yoshi Tannamuri                Canada
+Yvonne Moncada                 Argentina
+Zbyszek Piestrzeniewicz        Poland
+
+(120 rows affected)
+
+ContactName                    City            Country
+------------------------------ --------------- ---------------
+Alejandra Camino               Madrid          Spain
+Alexander Feuer                Leipzig         Germany
+Ana Trujillo                   México D.F.     Mexico
+Anabela Domingues              Sao Paulo       Brazil
+André Fonseca                  Campinas        Brazil
+Ann Devon                      London          UK
+Anne Heikkonen                 Lappeenranta    Finland
+Annette Roulet                 Toulouse        France
+Antonio del Valle Saavedra     Oviedo          Spain
+Antonio Moreno                 México D.F.     Mexico
+Aria Cruz                      Sao Paulo       Brazil
+Art Braunschweiger             Lander          USA
+Beate Vileid                   Sandvika        Norway
+Bernardo Batista               Rio de Janeiro  Brazil
+Carine Schmitt                 Nantes          France
+Carlos Diaz                    Sao Paulo       Brazil
+Carlos González                Barquisimeto    Venezuela
+Carlos Hernández               San Cristóbal   Venezuela
+Catherine Dewey                Bruxelles       Belgium
+Chandra Leka                   Singapore       Singapore
+Chantal Goulet                 Ste-Hyacinthe   Canada
+Charlotte Cooper               London          UK
+Cheryl Saylor                  Bend            USA
+Christina Berglund             Luleå           Sweden
+Daniel Tonini                  Versailles      France
+Diego Roel                     Madrid          Spain
+Dirk Luchte                    Zaandam         Netherlands
+Dominique Perrier              Paris           France
+Eduardo Saavedra               Barcelona       Spain
+Eliane Noz                     Annecy          France
+Elio Rossi                     Ravenna         Italy
+Elizabeth Brown                London          UK
+Elizabeth Lincoln              Tsawassen       Canada
+Felipe Izquierdo               I. de Margarita Venezuela
+Fran Wilson                    Portland        USA
+Francisco Chang                México D.F.     Mexico
+Frédérique Citeaux             Strasbourg      France
+Georg Pipps                    Salzburg        Austria
+Giovanni Giudici               Salerno         Italy
+Giovanni Rovelli               Bergamo         Italy
+Guillermo Fernández            México D.F.     Mexico
+Guylène Nodier                 Paris           France
+Hanna Moos                     Mannheim        Germany
+Hari Kumar                     London          UK
+Helen Bennett                  Cowes           UK
+Helvetius Nagy                 Kirkland        USA
+Henriette Pfalzheim            Köln            Germany
+Horst Kloss                    Cunewalde       Germany
+Howard Snyder                  Eugene          USA
+Ian Devling                    Melbourne       Australia
+Isabel de Castro               Lisboa          Portugal
+Jaime Yorres                   San Francisco   USA
+Janete Limeira                 Rio de Janeiro  Brazil
+Janine Labrune                 Nantes          France
+Jean Fresnière                 Montréal        Canada
+Jean-Guy Lauzon                Montréal        Canada
+John Steel                     Walla Walla     USA
+Jonas Bergulfsen               Stavern         Norway
+Jose Pavarotti                 Boise           USA
+José Pedro Freyre              Sevilla         Spain
+Jytte Petersen                 Kobenhavn       Denmark
+Karin Josephs                  Münster         Germany
+Karl Jablonski                 Seattle         USA
+Lars Peterson                  Göteborg        Sweden
+Laurence Lebihan               Marseille       France
+Lino Rodriguez                 Lisboa          Portugal
+Liu Wong                       Butte           USA
+Liz Nixon                      Portland        USA
+Lúcia Carvalho                 Sao Paulo       Brazil
+Manuel Pereira                 Caracas         Venezuela
+Maria Anders                   Berlin          Germany
+Maria Larsson                  Bräcke          Sweden
+Marie Bertrand                 Paris           France
+Marie Delamare                 Montceau        France
+Mario Pontes                   Rio de Janeiro  Brazil
+Martin Bein                    Frankfurt       Germany
+Martín Sommer                  Madrid          Spain
+Martine Rancé                  Lille           France
+Mary Saveley                   Lyon            France
+Matti Karttunen                Helsinki        Finland
+Maurizio Moroni                Reggio Emilia   Italy
+Mayumi Ohno                    Osaka           Japan
+Michael Björn                  Stockholm       Sweden
+Michael Holz                   Genève          Switzerland
+Miguel Angel Paolino           México D.F.     Mexico
+Niels Petersen                 Lyngby          Denmark
+Palle Ibsen                    Århus           Denmark
+Paolo Accorti                  Torino          Italy
+Pascale Cartrain               Charleroi       Belgium
+Patricia McKenna               Cork            Ireland
+Patricio Simpson               Buenos Aires    Argentina
+Paul Henriot                   Reims           France
+Paula Parente                  Resende         Brazil
+Paula Wilson                   Albuquerque     USA
+Pedro Afonso                   Sao Paulo       Brazil
+Peter Franken                  München         Germany
+Peter Wilson                   Manchester      UK
+Petra Winkler                  Berlin          Germany
+Philip Cramer                  Brandenburg     Germany
+Pirkko Koskitalo               Oulu            Finland
+Regina Murphy                  Ann Arbor       USA
+Renate Messner                 Frankfurt a.M.  Germany
+Rene Phillips                  Anchorage       USA
+Rita Müller                    Stuttgart       Germany
+Robb Merchant                  Boston          USA
+Roland Mendel                  Graz            Austria
+Sergio Gutiérrez               Buenos Aires    Argentina
+Shelley Burke                  New Orleans     USA
+Simon Crowther                 London          UK
+Sven Ottlieb                   Aachen          Germany
+Sven Petersen                  Cuxhaven        Germany
+Thomas Hardy                   London          UK
+Victoria Ashworth              London          UK
+Wendy Mackenzie                Sydney          Australia
+Yang Wang                      Bern            Switzerland
+Yoshi Latimer                  Elgin           USA
+Yoshi Nagase                   Tokyo           Japan
+Yoshi Tannamuri                Vancouver       Canada
+Yvonne Moncada                 Buenos Aires    Argentina
+Zbyszek Piestrzeniewicz        Warszawa        Poland
+
+(120 rows affected)
+
+ContactName                    Country
+------------------------------ ---------------
+
+(0 rows affected)
+
+ContactName                    City            Country
+------------------------------ --------------- ---------------
+
+(0 rows affected)
+
+ContactName                    Country
+------------------------------ ---------------
+Alejandra Camino               Spain
+Alexander Feuer                Germany
+Ana Trujillo                   Mexico
+Anabela Domingues              Brazil
+André Fonseca                  Brazil
+Ann Devon                      UK
+Annette Roulet                 France
+Antonio Moreno                 Mexico
+Aria Cruz                      Brazil
+Art Braunschweiger             USA
+Bernardo Batista               Brazil
+Carine Schmitt                 France
+Carlos González                Venezuela
+Carlos Hernández               Venezuela
+Catherine Dewey                Belgium
+Christina Berglund             Sweden
+Daniel Tonini                  France
+Diego Roel                     Spain
+Dominique Perrier              France
+Eduardo Saavedra               Spain
+Elizabeth Brown                UK
+Elizabeth Lincoln              Canada
+Felipe Izquierdo               Venezuela
+Fran Wilson                    USA
+Francisco Chang                Mexico
+Frédérique Citeaux             France
+Georg Pipps                    Austria
+Giovanni Rovelli               Italy
+Guillermo Fernández            Mexico
+Hanna Moos                     Germany
+Hari Kumar                     UK
+Helen Bennett                  UK
+Helvetius Nagy                 USA
+Henriette Pfalzheim            Germany
+Horst Kloss                    Germany
+Howard Snyder                  USA
+Isabel de Castro               Portugal
+Jaime Yorres                   USA
+Janete Limeira                 Brazil
+Janine Labrune                 France
+Jean Fresnière                 Canada
+John Steel                     USA
+Jonas Bergulfsen               Norway
+Jose Pavarotti                 USA
+José Pedro Freyre              Spain
+Jytte Petersen                 Denmark
+Karin Josephs                  Germany
+Karl Jablonski                 USA
+Laurence Lebihan               France
+Lino Rodriguez                 Portugal
+Liu Wong                       USA
+Liz Nixon                      USA
+Lúcia Carvalho                 Brazil
+Manuel Pereira                 Venezuela
+Maria Anders                   Germany
+Maria Larsson                  Sweden
+Marie Bertrand                 France
+Mario Pontes                   Brazil
+Martín Sommer                  Spain
+Martine Rancé                  France
+Mary Saveley                   France
+Matti Karttunen                Finland
+Maurizio Moroni                Italy
+Michael Holz                   Switzerland
+Miguel Angel Paolino           Mexico
+Palle Ibsen                    Denmark
+Paolo Accorti                  Italy
+Pascale Cartrain               Belgium
+Patricia McKenna               Ireland
+Patricio Simpson               Argentina
+Paul Henriot                   France
+Paula Parente                  Brazil
+Paula Wilson                   USA
+Pedro Afonso                   Brazil
+Peter Franken                  Germany
+Philip Cramer                  Germany
+Pirkko Koskitalo               Finland
+Renate Messner                 Germany
+Rene Phillips                  USA
+Rita Müller                    Germany
+Roland Mendel                  Austria
+Sergio Gutiérrez               Argentina
+Simon Crowther                 UK
+Sven Ottlieb                   Germany
+Thomas Hardy                   UK
+Victoria Ashworth              UK
+Yang Wang                      Switzerland
+Yoshi Latimer                  USA
+Yoshi Tannamuri                Canada
+Yvonne Moncada                 Argentina
+Zbyszek Piestrzeniewicz        Poland
+
+(91 rows affected)
+
+ContactName                    Country
+------------------------------ ---------------
+Anne Heikkonen                 Finland
+Antonio del Valle Saavedra     Spain
+Beate Vileid                   Norway
+Carlos Diaz                    Brazil
+Chandra Leka                   Singapore
+Chantal Goulet                 Canada
+Charlotte Cooper               UK
+Cheryl Saylor                  USA
+Dirk Luchte                    Netherlands
+Eliane Noz                     France
+Elio Rossi                     Italy
+Giovanni Giudici               Italy
+Guylène Nodier                 France
+Ian Devling                    Australia
+Jean-Guy Lauzon                Canada
+Lars Peterson                  Sweden
+Marie Delamare                 France
+Martin Bein                    Germany
+Mayumi Ohno                    Japan
+Michael Björn                  Sweden
+Niels Petersen                 Denmark
+Peter Wilson                   UK
+Petra Winkler                  Germany
+Regina Murphy                  USA
+Robb Merchant                  USA
+Shelley Burke                  USA
+Sven Petersen                  Germany
+Wendy Mackenzie                Australia
+Yoshi Nagase                   Japan
+
+(29 rows affected)
+
+
+Completion time: 2020-02-12T09:53:39.0073493-06:00
