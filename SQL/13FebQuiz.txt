@@ -1,0 +1,62 @@
+--Q1
+Where OrderDate >= 20160101 AND OrderDate <= 20160201
+Intersect
+Whhere OrderDate >= 20160201 AND OrderDate <= 2016301
+
+custid		empid
+----------------------
+20		3
+39		9
+46		5
+67		1
+71		4
+
+--Q2
+Select City
+From Customers
+Where Country = 'USA'
+Union All
+Select City
+From Suppliers
+Where Country = 'USA';
+
+--Q3 
+Insert Into Pets (PetID, Name, PetSpeciesID, BirthDate, Notes)
+Values
+(1, 'Buddy', 1, '2018-01-01', 'Dog-Boxer'),
+(2, 'Sasha', 1, '2000-12-16', 'Dog Mini Schnauzer'),
+(3, 'Elmore', 2, '2009-07-04', 'Cat-Perisian'),
+(4, 'Max', 1, '2020-01-01', 'Dog-German Shepard'),
+(5, 'Milo', 2, '2019-01-01', 'Cat-Siamese');
+
+--Q4
+--a
+Create Table Facility
+(
+id int,
+facility_name VarChar(255),
+address VarChar(255), 
+phone VarChar(255),
+email VarChar(255), 
+contact_person VarChar(255)
+);
+
+--d
+UPDATE Pets
+SET BirthDate = '2019-01-01'
+WHERE Name = 'Max';
+
+--e
+SELECT Count(*) Over (Partition By Month(BirthDate), Year(BirthDate)) as mumPerMonth,
+DateName(month,BirthDate)+ ' ' +datename(year,BirthDate) as TheDate, Name
+FROM Pets
+Order by Name;
+
+--f
+Select Name, BirthDate
+From Pets
+Left Join PetOwner On PetOwner.PetID = Pets.PetID
+Intersect
+Select Name, BirthDate
+From Pets
+Right Join PetOwner On PetOwner.PetID = Pets.PetID;
