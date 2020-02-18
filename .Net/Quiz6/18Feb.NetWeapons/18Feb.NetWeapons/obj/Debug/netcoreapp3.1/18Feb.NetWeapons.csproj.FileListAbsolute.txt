@@ -1,0 +1,13 @@
+C:\Users\Antho\Desktop\MSSA\.Net\18Feb.NetWeapons\18Feb.NetWeapons\bin\Debug\netcoreapp3.1\18Feb.NetWeapons.exe
+C:\Users\Antho\Desktop\MSSA\.Net\18Feb.NetWeapons\18Feb.NetWeapons\obj\Debug\netcoreapp3.1\18Feb.NetWeapons.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\.Net\18Feb.NetWeapons\18Feb.NetWeapons\obj\Debug\netcoreapp3.1\18Feb.NetWeapons.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\.Net\18Feb.NetWeapons\18Feb.NetWeapons\bin\Debug\netcoreapp3.1\18Feb.NetWeapons.deps.json
+C:\Users\Antho\Desktop\MSSA\.Net\18Feb.NetWeapons\18Feb.NetWeapons\bin\Debug\netcoreapp3.1\18Feb.NetWeapons.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\.Net\18Feb.NetWeapons\18Feb.NetWeapons\bin\Debug\netcoreapp3.1\18Feb.NetWeapons.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\.Net\18Feb.NetWeapons\18Feb.NetWeapons\bin\Debug\netcoreapp3.1\18Feb.NetWeapons.dll
+C:\Users\Antho\Desktop\MSSA\.Net\18Feb.NetWeapons\18Feb.NetWeapons\bin\Debug\netcoreapp3.1\18Feb.NetWeapons.pdb
+C:\Users\Antho\Desktop\MSSA\.Net\18Feb.NetWeapons\18Feb.NetWeapons\bin\Debug\netcoreapp3.1\Figgle.dll
+C:\Users\Antho\Desktop\MSSA\.Net\18Feb.NetWeapons\18Feb.NetWeapons\obj\Debug\netcoreapp3.1\18Feb.NetWeapons.csproj.CopyComplete
+C:\Users\Antho\Desktop\MSSA\.Net\18Feb.NetWeapons\18Feb.NetWeapons\obj\Debug\netcoreapp3.1\18Feb.NetWeapons.dll
+C:\Users\Antho\Desktop\MSSA\.Net\18Feb.NetWeapons\18Feb.NetWeapons\obj\Debug\netcoreapp3.1\18Feb.NetWeapons.pdb
+C:\Users\Antho\Desktop\MSSA\.Net\18Feb.NetWeapons\18Feb.NetWeapons\obj\Debug\netcoreapp3.1\18Feb.NetWeapons.csprojAssemblyReference.cache

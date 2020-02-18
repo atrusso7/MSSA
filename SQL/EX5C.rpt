@@ -1,0 +1,149 @@
+﻿President                                                                                             DaysAsPresident
+----------------------------------------------------------------------------------------------------- ---------------
+Adams John                                                                                            1460
+Jefferson Thomas                                                                                      2922
+Madison James                                                                                         2922
+Monroe James                                                                                          2922
+Adams John                                                                                            1461
+Jackson Andrew                                                                                        2922
+Van Buren Martin                                                                                      1461
+Harrison William                                                                                      31
+Tyler John                                                                                            1430
+Polk James                                                                                            1461
+Taylor Zachary                                                                                        492
+Fillmore Millard                                                                                      969
+Pierce Franklin                                                                                       1461
+Buchanan James                                                                                        1461
+Lincoln Abraham                                                                                       1503
+Johnson Andrew                                                                                        1419
+Grant Ulysses                                                                                         2922
+Hayes Rutherford                                                                                      1461
+Garfield James                                                                                        199
+Arthur Chester                                                                                        1262
+Cleveland Grover                                                                                      1461
+Harrison Benjamin                                                                                     1461
+Cleveland Grover                                                                                      1461
+McKinley William                                                                                      1654
+Roosevelt Theodore                                                                                    2728
+Taft William                                                                                          1461
+Wilson Woodrow                                                                                        2922
+Harding Warren                                                                                        881
+Coolidge Calvin                                                                                       2041
+Hoover Herbert                                                                                        1461
+Roosevelt Franklin                                                                                    4422
+Truman Harry                                                                                          2840
+Eisenhower Dwight                                                                                     2922
+Kennedy John                                                                                          1036
+Johnson Lyndon                                                                                        1886
+Nixon Richard                                                                                         2027
+Ford Gerald                                                                                           895
+Carter Jimmy                                                                                          1461
+Reagan Ronald                                                                                         2922
+Bush George                                                                                           1461
+Clinton William                                                                                       2922
+Bush George                                                                                           2922
+Obama Barack                                                                                          2922
+Trump Donald                                                                                          NULL
+
+(44 rows affected)
+
+President                                                                                             YearsOld
+----------------------------------------------------------------------------------------------------- -----------
+Adams John                                                                                            62
+Jefferson Thomas                                                                                      58
+Madison James                                                                                         58
+Monroe James                                                                                          59
+Adams John                                                                                            58
+Jackson Andrew                                                                                        62
+Van Buren Martin                                                                                      55
+Harrison William                                                                                      68
+Tyler John                                                                                            51
+Polk James                                                                                            50
+Taylor Zachary                                                                                        65
+Fillmore Millard                                                                                      50
+Pierce Franklin                                                                                       49
+Buchanan James                                                                                        66
+Lincoln Abraham                                                                                       52
+Johnson Andrew                                                                                        57
+Grant Ulysses                                                                                         47
+Hayes Rutherford                                                                                      55
+Garfield James                                                                                        50
+Arthur Chester                                                                                        51
+Cleveland Grover                                                                                      48
+Harrison Benjamin                                                                                     56
+Cleveland Grover                                                                                      56
+McKinley William                                                                                      54
+Roosevelt Theodore                                                                                    43
+Taft William                                                                                          52
+Wilson Woodrow                                                                                        57
+Harding Warren                                                                                        56
+Coolidge Calvin                                                                                       51
+Hoover Herbert                                                                                        55
+Roosevelt Franklin                                                                                    51
+Truman Harry                                                                                          61
+Eisenhower Dwight                                                                                     63
+Kennedy John                                                                                          44
+Johnson Lyndon                                                                                        55
+Nixon Richard                                                                                         56
+Ford Gerald                                                                                           61
+Carter Jimmy                                                                                          53
+Reagan Ronald                                                                                         70
+Bush George                                                                                           65
+Clinton William                                                                                       47
+Bush George                                                                                           55
+Obama Barack                                                                                          48
+Trump Donald                                                                                          71
+
+(44 rows affected)
+
+Party_Affiliation                                  Religious_Affiliation
+-------------------------------------------------- --------------------------------------------------
+Democratic                                         Presbyterian
+Democratic                                         Dutch Reformed
+Democratic                                         Methodist
+Democratic                                         NULL
+Democratic                                         Presbyterian
+Democratic                                         Presbyterian
+Democratic                                         Presbyterian
+Democratic                                         Presbyterian
+Democratic                                         Episcopalian
+Democratic                                         Baptist
+Democratic                                         Roman Catholic
+Democratic                                         Disciples of Christ
+Democratic                                         Baptist
+Democratic                                         Baptist
+Democratic                                         Unaffiliated Christian
+Democratic/National Union                          NULL
+Democratic-Republican                              NULL
+Democratic-Republican                              Deist/Episcopalian
+Democratic-Republican                              Deist/Episcopalian
+Democratic-Republican/National Republican          Unitarian
+Federalist                                         Unitarian
+Republican                                         Christian
+Republican                                         Methodist
+Republican                                         Presbyterian
+Republican                                         Episcopalian
+Republican                                         Presbyterian/Methodist
+Republican                                         NULL
+Republican                                         Disciples of Christ
+Republican                                         Episcopalian
+Republican                                         Quaker
+Republican                                         Episcopalian
+Republican                                         Presbyterian
+Republican                                         Presbyterian
+Republican                                         Baptist
+Republican                                         Congregationalist
+Republican                                         Quaker
+Republican                                         Methodist
+Republican                                         Dutch Reformed
+Republican                                         Unitarian
+Republican/National Union                          NULL
+Whig                                               Episcopalian
+Whig                                               Unitarian
+Whig                                               Episcopalian
+Whig                                               Episcopalian
+
+(44 rows affected)
+
+
+Completion time: 2020-02-17T08:55:12.3555994-06:00
