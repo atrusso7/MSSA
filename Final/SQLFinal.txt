@@ -1,0 +1,102 @@
+Q17.
+SELECT TOP 10 (unitprice * qty) as Total
+FROM Sales.OrderDetails
+WHERE (unitprice * qty) > 10000
+ORDER BY Total;
+
+Total
+---------------------
+10329.20
+10540.00
+10540.00
+10540.00
+15810.00
+15810.00
+
+
+Q18.
+SELECT CONCAT(LastName, ', ', FirstName) AS FullName, Quantity, ShipCountry
+FROM dbo.Orders AS o
+JOIN [Order Details] on [Order Details].OrderID = o.OrderID
+JOIN Employees AS e on e.EmployeeID = o.EmployeeID
+WHERE ShipCountry = 'Argentina'
+ORDER BY Quantity;
+
+FullName                         Quantity ShipCountry
+-------------------------------- -------- ---------------
+Dodsworth, Anne                  1        Argentina
+Dodsworth, Anne                  2        Argentina
+King, Robert                     2        Argentina
+Suyama, Michael                  2        Argentina
+Suyama, Michael                  3        Argentina
+Callahan, Laura                  3        Argentina
+Dodsworth, Anne                  5        Argentina
+Peacock, Margaret                5        Argentina
+Peacock, Margaret                5        Argentina
+King, Robert                     5        Argentina
+Davolio, Nancy                   6        Argentina
+Davolio, Nancy                   6        Argentina
+King, Robert                     6        Argentina
+Peacock, Margaret                6        Argentina
+Callahan, Laura                  6        Argentina
+Fuller, Andrew                   7        Argentina
+Peacock, Margaret                7        Argentina
+King, Robert                     8        Argentina
+Callahan, Laura                  10       Argentina
+Callahan, Laura                  10       Argentina
+Peacock, Margaret                10       Argentina
+Callahan, Laura                  10       Argentina
+Peacock, Margaret                10       Argentina
+Leverling, Janet                 12       Argentina
+Leverling, Janet                 12       Argentina
+Callahan, Laura                  15       Argentina
+Callahan, Laura                  15       Argentina
+Callahan, Laura                  20       Argentina
+King, Robert                     20       Argentina
+King, Robert                     20       Argentina
+Davolio, Nancy                   20       Argentina
+Peacock, Margaret                20       Argentina
+Fuller, Andrew                   20       Argentina
+Callahan, Laura                  30       Argentina
+
+Q19.
+SELECT TOP 10 CompanyName, Country, COUNT(o.CustomerID) as Orders
+FROM Customers AS c
+JOIN dbo.Orders AS o ON o.CustomerID = c.CustomerID
+GROUP BY o.CustomerID, CompanyName, Country
+ORDER BY Orders DESC;
+
+CompanyName                              Country         Orders
+---------------------------------------- --------------- -----------
+Save-a-lot Markets                       USA             31
+Ernst Handel                             Austria         30
+QUICK-Stop                               Germany         28
+Folk och fä HB                           Sweden          19
+Hungry Owl All-Night Grocers             Ireland         19
+Berglunds snabbköp                       Sweden          18
+HILARION-Abastos                         Venezuela       18
+Rattlesnake Canyon Grocery               USA             18
+Bon app'                                 France          17
+Frankenversand                           Germany         15
+
+Q20.
+DROP VIEW IF EXISTS AllMyDog;
+CREATE VIEW AllMyDog AS
+SELECT petid, SpeciesName	
+FROM Pets
+Join PetSpecies on PetSpecies.PetSpeciesID = pets.PetSpeciesID
+WHERE SpeciesName = 'Dog';
+
+SET IDENTITY_INSERT Owner ON;
+INSERT INTO Owner (OwnerID, FirstName, LastName, Mobile, Email, Notes)
+Values
+(333, 'John', 'WAYNE', '121-999-0909', 'jw@hotmail.com', 'Famous Actor');
+
+ALTER VIEW AllMyDog
+AS
+SELECT
+LastName, FirstName, email, mobile, notes
+FROM Owner
+WHERE LastName = 'Wayne';
+
+WAYNE	John	jw@hotmail.com	121-999-0909	Famous Actor

@@ -1,0 +1,11 @@
+C:\Users\Antho\Desktop\MSSA\.Net\PrimeNumberChecker\PrimeNumberChecker\bin\Debug\netcoreapp3.1\PrimeNumberChecker.exe
+C:\Users\Antho\Desktop\MSSA\.Net\PrimeNumberChecker\PrimeNumberChecker\bin\Debug\netcoreapp3.1\PrimeNumberChecker.deps.json
+C:\Users\Antho\Desktop\MSSA\.Net\PrimeNumberChecker\PrimeNumberChecker\bin\Debug\netcoreapp3.1\PrimeNumberChecker.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\.Net\PrimeNumberChecker\PrimeNumberChecker\bin\Debug\netcoreapp3.1\PrimeNumberChecker.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\.Net\PrimeNumberChecker\PrimeNumberChecker\bin\Debug\netcoreapp3.1\PrimeNumberChecker.dll
+C:\Users\Antho\Desktop\MSSA\.Net\PrimeNumberChecker\PrimeNumberChecker\bin\Debug\netcoreapp3.1\PrimeNumberChecker.pdb
+C:\Users\Antho\Desktop\MSSA\.Net\PrimeNumberChecker\PrimeNumberChecker\obj\Debug\netcoreapp3.1\PrimeNumberChecker.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\.Net\PrimeNumberChecker\PrimeNumberChecker\obj\Debug\netcoreapp3.1\PrimeNumberChecker.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\.Net\PrimeNumberChecker\PrimeNumberChecker\obj\Debug\netcoreapp3.1\PrimeNumberChecker.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\.Net\PrimeNumberChecker\PrimeNumberChecker\obj\Debug\netcoreapp3.1\PrimeNumberChecker.dll
+C:\Users\Antho\Desktop\MSSA\.Net\PrimeNumberChecker\PrimeNumberChecker\obj\Debug\netcoreapp3.1\PrimeNumberChecker.pdb
