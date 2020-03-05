@@ -1,0 +1,6 @@
+C:\Users\Antho\Desktop\MSSA\ASP.NET\4Feb_linq_sqls\4Feb_linq_sqls\bin\Debug\4Feb_linq_sqls.exe.config
+C:\Users\Antho\Desktop\MSSA\ASP.NET\4Feb_linq_sqls\4Feb_linq_sqls\bin\Debug\4Feb_linq_sqls.exe
+C:\Users\Antho\Desktop\MSSA\ASP.NET\4Feb_linq_sqls\4Feb_linq_sqls\bin\Debug\4Feb_linq_sqls.pdb
+C:\Users\Antho\Desktop\MSSA\ASP.NET\4Feb_linq_sqls\4Feb_linq_sqls\obj\Debug\4Feb_linq_sqls.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\ASP.NET\4Feb_linq_sqls\4Feb_linq_sqls\obj\Debug\4Feb_linq_sqls.exe
+C:\Users\Antho\Desktop\MSSA\ASP.NET\4Feb_linq_sqls\4Feb_linq_sqls\obj\Debug\4Feb_linq_sqls.pdb

@@ -1,0 +1,11 @@
+C:\Users\Antho\Desktop\MSSA\ASP.NET\3Feb_abstract_class\3Feb_abstract_class\bin\Debug\netcoreapp3.1\3Feb_abstract_class.exe
+C:\Users\Antho\Desktop\MSSA\ASP.NET\3Feb_abstract_class\3Feb_abstract_class\bin\Debug\netcoreapp3.1\3Feb_abstract_class.deps.json
+C:\Users\Antho\Desktop\MSSA\ASP.NET\3Feb_abstract_class\3Feb_abstract_class\bin\Debug\netcoreapp3.1\3Feb_abstract_class.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\ASP.NET\3Feb_abstract_class\3Feb_abstract_class\bin\Debug\netcoreapp3.1\3Feb_abstract_class.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\ASP.NET\3Feb_abstract_class\3Feb_abstract_class\bin\Debug\netcoreapp3.1\3Feb_abstract_class.dll
+C:\Users\Antho\Desktop\MSSA\ASP.NET\3Feb_abstract_class\3Feb_abstract_class\bin\Debug\netcoreapp3.1\3Feb_abstract_class.pdb
+C:\Users\Antho\Desktop\MSSA\ASP.NET\3Feb_abstract_class\3Feb_abstract_class\obj\Debug\netcoreapp3.1\3Feb_abstract_class.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\ASP.NET\3Feb_abstract_class\3Feb_abstract_class\obj\Debug\netcoreapp3.1\3Feb_abstract_class.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\ASP.NET\3Feb_abstract_class\3Feb_abstract_class\obj\Debug\netcoreapp3.1\3Feb_abstract_class.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\ASP.NET\3Feb_abstract_class\3Feb_abstract_class\obj\Debug\netcoreapp3.1\3Feb_abstract_class.dll
+C:\Users\Antho\Desktop\MSSA\ASP.NET\3Feb_abstract_class\3Feb_abstract_class\obj\Debug\netcoreapp3.1\3Feb_abstract_class.pdb

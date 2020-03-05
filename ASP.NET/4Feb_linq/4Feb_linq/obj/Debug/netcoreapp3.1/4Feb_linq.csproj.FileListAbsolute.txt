@@ -1,0 +1,11 @@
+C:\Users\Antho\Desktop\MSSA\ASP.NET\4Feb_linq\4Feb_linq\bin\Debug\netcoreapp3.1\4Feb_linq.exe
+C:\Users\Antho\Desktop\MSSA\ASP.NET\4Feb_linq\4Feb_linq\bin\Debug\netcoreapp3.1\4Feb_linq.deps.json
+C:\Users\Antho\Desktop\MSSA\ASP.NET\4Feb_linq\4Feb_linq\bin\Debug\netcoreapp3.1\4Feb_linq.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\ASP.NET\4Feb_linq\4Feb_linq\bin\Debug\netcoreapp3.1\4Feb_linq.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\ASP.NET\4Feb_linq\4Feb_linq\bin\Debug\netcoreapp3.1\4Feb_linq.dll
+C:\Users\Antho\Desktop\MSSA\ASP.NET\4Feb_linq\4Feb_linq\bin\Debug\netcoreapp3.1\4Feb_linq.pdb
+C:\Users\Antho\Desktop\MSSA\ASP.NET\4Feb_linq\4Feb_linq\obj\Debug\netcoreapp3.1\4Feb_linq.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\ASP.NET\4Feb_linq\4Feb_linq\obj\Debug\netcoreapp3.1\4Feb_linq.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\ASP.NET\4Feb_linq\4Feb_linq\obj\Debug\netcoreapp3.1\4Feb_linq.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\ASP.NET\4Feb_linq\4Feb_linq\obj\Debug\netcoreapp3.1\4Feb_linq.dll
+C:\Users\Antho\Desktop\MSSA\ASP.NET\4Feb_linq\4Feb_linq\obj\Debug\netcoreapp3.1\4Feb_linq.pdb
