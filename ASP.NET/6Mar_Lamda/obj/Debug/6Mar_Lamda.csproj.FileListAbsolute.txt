@@ -1,0 +1,6 @@
+C:\Users\Antho\Desktop\MSSA\ASP.NET\6Mar_Lamda\bin\Debug\6Mar_Lamda.exe.config
+C:\Users\Antho\Desktop\MSSA\ASP.NET\6Mar_Lamda\bin\Debug\6Mar_Lamda.exe
+C:\Users\Antho\Desktop\MSSA\ASP.NET\6Mar_Lamda\bin\Debug\6Mar_Lamda.pdb
+C:\Users\Antho\Desktop\MSSA\ASP.NET\6Mar_Lamda\obj\Debug\6Mar_Lamda.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\ASP.NET\6Mar_Lamda\obj\Debug\6Mar_Lamda.exe
+C:\Users\Antho\Desktop\MSSA\ASP.NET\6Mar_Lamda\obj\Debug\6Mar_Lamda.pdb

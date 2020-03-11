@@ -5,6 +5,11 @@
     <RootNamespace>_24FebPartyInvite</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\bobby.jfif" />
+    <None Include="wwwroot\happy-gilmore.png" />
+  </ItemGroup>
+
 
 
 </Project>
