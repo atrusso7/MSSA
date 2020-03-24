@@ -1,0 +1,6 @@
+C:\Users\Antho\Desktop\MSSA\ISTA421\34Mar_Indexer\bin\Debug\34Mar_Indexer.exe.config
+C:\Users\Antho\Desktop\MSSA\ISTA421\34Mar_Indexer\bin\Debug\34Mar_Indexer.exe
+C:\Users\Antho\Desktop\MSSA\ISTA421\34Mar_Indexer\bin\Debug\34Mar_Indexer.pdb
+C:\Users\Antho\Desktop\MSSA\ISTA421\34Mar_Indexer\obj\Debug\34Mar_Indexer.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\34Mar_Indexer\obj\Debug\34Mar_Indexer.exe
+C:\Users\Antho\Desktop\MSSA\ISTA421\34Mar_Indexer\obj\Debug\34Mar_Indexer.pdb
