@@ -1,0 +1,11 @@
+C:\Users\Antho\Desktop\MSSA\ISTA421\25Mar_Group_Indexer\bin\Debug\netcoreapp3.1\25Mar_Group_Indexer.exe
+C:\Users\Antho\Desktop\MSSA\ISTA421\25Mar_Group_Indexer\bin\Debug\netcoreapp3.1\25Mar_Group_Indexer.deps.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\25Mar_Group_Indexer\bin\Debug\netcoreapp3.1\25Mar_Group_Indexer.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\25Mar_Group_Indexer\bin\Debug\netcoreapp3.1\25Mar_Group_Indexer.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\25Mar_Group_Indexer\bin\Debug\netcoreapp3.1\25Mar_Group_Indexer.dll
+C:\Users\Antho\Desktop\MSSA\ISTA421\25Mar_Group_Indexer\bin\Debug\netcoreapp3.1\25Mar_Group_Indexer.pdb
+C:\Users\Antho\Desktop\MSSA\ISTA421\25Mar_Group_Indexer\obj\Debug\netcoreapp3.1\25Mar_Group_Indexer.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\25Mar_Group_Indexer\obj\Debug\netcoreapp3.1\25Mar_Group_Indexer.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\25Mar_Group_Indexer\obj\Debug\netcoreapp3.1\25Mar_Group_Indexer.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\ISTA421\25Mar_Group_Indexer\obj\Debug\netcoreapp3.1\25Mar_Group_Indexer.dll
+C:\Users\Antho\Desktop\MSSA\ISTA421\25Mar_Group_Indexer\obj\Debug\netcoreapp3.1\25Mar_Group_Indexer.pdb
