@@ -1,0 +1,11 @@
+C:\Users\Antho\Desktop\MSSA\ISTA421\30Mar_ListGroup\bin\Debug\netcoreapp3.1\30Mar_ListGroup.exe
+C:\Users\Antho\Desktop\MSSA\ISTA421\30Mar_ListGroup\bin\Debug\netcoreapp3.1\30Mar_ListGroup.deps.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\30Mar_ListGroup\bin\Debug\netcoreapp3.1\30Mar_ListGroup.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\30Mar_ListGroup\bin\Debug\netcoreapp3.1\30Mar_ListGroup.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\30Mar_ListGroup\bin\Debug\netcoreapp3.1\30Mar_ListGroup.dll
+C:\Users\Antho\Desktop\MSSA\ISTA421\30Mar_ListGroup\bin\Debug\netcoreapp3.1\30Mar_ListGroup.pdb
+C:\Users\Antho\Desktop\MSSA\ISTA421\30Mar_ListGroup\obj\Debug\netcoreapp3.1\30Mar_ListGroup.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\30Mar_ListGroup\obj\Debug\netcoreapp3.1\30Mar_ListGroup.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\30Mar_ListGroup\obj\Debug\netcoreapp3.1\30Mar_ListGroup.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\ISTA421\30Mar_ListGroup\obj\Debug\netcoreapp3.1\30Mar_ListGroup.dll
+C:\Users\Antho\Desktop\MSSA\ISTA421\30Mar_ListGroup\obj\Debug\netcoreapp3.1\30Mar_ListGroup.pdb
