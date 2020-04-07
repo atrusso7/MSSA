@@ -1,0 +1,11 @@
+C:\Users\Antho\Desktop\MSSA\ISTA421\6Apr_LinkedList\bin\Debug\netcoreapp3.1\6Apr_LinkedList.exe
+C:\Users\Antho\Desktop\MSSA\ISTA421\6Apr_LinkedList\bin\Debug\netcoreapp3.1\6Apr_LinkedList.deps.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\6Apr_LinkedList\bin\Debug\netcoreapp3.1\6Apr_LinkedList.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\6Apr_LinkedList\bin\Debug\netcoreapp3.1\6Apr_LinkedList.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\6Apr_LinkedList\bin\Debug\netcoreapp3.1\6Apr_LinkedList.dll
+C:\Users\Antho\Desktop\MSSA\ISTA421\6Apr_LinkedList\bin\Debug\netcoreapp3.1\6Apr_LinkedList.pdb
+C:\Users\Antho\Desktop\MSSA\ISTA421\6Apr_LinkedList\obj\Debug\netcoreapp3.1\6Apr_LinkedList.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\6Apr_LinkedList\obj\Debug\netcoreapp3.1\6Apr_LinkedList.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\6Apr_LinkedList\obj\Debug\netcoreapp3.1\6Apr_LinkedList.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\ISTA421\6Apr_LinkedList\obj\Debug\netcoreapp3.1\6Apr_LinkedList.dll
+C:\Users\Antho\Desktop\MSSA\ISTA421\6Apr_LinkedList\obj\Debug\netcoreapp3.1\6Apr_LinkedList.pdb

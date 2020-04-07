@@ -1,0 +1,6 @@
+C:\Users\Antho\Desktop\C# Labs\Microsoft Press\VCSBS\Chapter 3\DailyRate Using Optional Parameters - Complete\DailyRate\bin\Debug\DailyRate.exe.config
+C:\Users\Antho\Desktop\C# Labs\Microsoft Press\VCSBS\Chapter 3\DailyRate Using Optional Parameters - Complete\DailyRate\bin\Debug\DailyRate.exe
+C:\Users\Antho\Desktop\C# Labs\Microsoft Press\VCSBS\Chapter 3\DailyRate Using Optional Parameters - Complete\DailyRate\bin\Debug\DailyRate.pdb
+C:\Users\Antho\Desktop\C# Labs\Microsoft Press\VCSBS\Chapter 3\DailyRate Using Optional Parameters - Complete\DailyRate\obj\Debug\DailyRate.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\C# Labs\Microsoft Press\VCSBS\Chapter 3\DailyRate Using Optional Parameters - Complete\DailyRate\obj\Debug\DailyRate.exe
+C:\Users\Antho\Desktop\C# Labs\Microsoft Press\VCSBS\Chapter 3\DailyRate Using Optional Parameters - Complete\DailyRate\obj\Debug\DailyRate.pdb

@@ -1,0 +1,11 @@
+C:\Users\Antho\Desktop\MSSA\ISTA421\2Apr_DataStructures\bin\Debug\netcoreapp3.1\2Apr_DataStructures.exe
+C:\Users\Antho\Desktop\MSSA\ISTA421\2Apr_DataStructures\bin\Debug\netcoreapp3.1\2Apr_DataStructures.deps.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\2Apr_DataStructures\bin\Debug\netcoreapp3.1\2Apr_DataStructures.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\2Apr_DataStructures\bin\Debug\netcoreapp3.1\2Apr_DataStructures.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\2Apr_DataStructures\bin\Debug\netcoreapp3.1\2Apr_DataStructures.dll
+C:\Users\Antho\Desktop\MSSA\ISTA421\2Apr_DataStructures\bin\Debug\netcoreapp3.1\2Apr_DataStructures.pdb
+C:\Users\Antho\Desktop\MSSA\ISTA421\2Apr_DataStructures\obj\Debug\netcoreapp3.1\2Apr_DataStructures.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\2Apr_DataStructures\obj\Debug\netcoreapp3.1\2Apr_DataStructures.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\2Apr_DataStructures\obj\Debug\netcoreapp3.1\2Apr_DataStructures.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\ISTA421\2Apr_DataStructures\obj\Debug\netcoreapp3.1\2Apr_DataStructures.dll
+C:\Users\Antho\Desktop\MSSA\ISTA421\2Apr_DataStructures\obj\Debug\netcoreapp3.1\2Apr_DataStructures.pdb

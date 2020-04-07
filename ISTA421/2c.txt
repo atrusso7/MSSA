@@ -1,0 +1,11 @@
+1.PaaS
+2.Resource group
+3.Developing
+4.virtual machines
+5.Up
+6.Out
+7.IaaS
+8.Monthly
+9.budget limit
+10.2
+11.Remote Desktop

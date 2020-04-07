@@ -20536,6 +20536,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Antho\\Desktop\\MSSA\\ISTA421\\26Mar_BookStore\\Views\\Home\\AddBook.cshtml",
+      "TargetPath": "Views\\Home\\AddBook.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Antho\\Desktop\\MSSA\\ISTA421\\26Mar_BookStore\\Views\\Home\\Books.cshtml",
       "TargetPath": "Views\\Home\\Books.cshtml",
       "FileKind": "mvc"
@@ -20543,11 +20548,6 @@
     {
       "FilePath": "c:\\Users\\Antho\\Desktop\\MSSA\\ISTA421\\26Mar_BookStore\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Antho\\Desktop\\MSSA\\ISTA421\\26Mar_BookStore\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {

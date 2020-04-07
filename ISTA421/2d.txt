@@ -1,0 +1,7 @@
+
+    Get estimated costs before adding services using pricing calculator, Azure price sheet or while adding services in the Azure portal.
+    Monitor costs with budgets, alerts, and cost analysis.
+    Review the charges on your invoice by comparing them with detailed usage files.
+    Integrate billing and cost data with your own reporting system using billing and consumption APIs.
+    Use additional resources and tools for Enterprise Agreement (EA), Cloud Solution Provider (CSP), and Azure Sponsorship customers.
+    Make use of some of the most popular Azure services for free for 12 months available with the Azure free account. Along with the recommendations listed below, see Avoid getting charged for free account.

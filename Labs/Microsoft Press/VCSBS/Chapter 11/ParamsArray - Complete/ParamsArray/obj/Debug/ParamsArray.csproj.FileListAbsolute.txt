@@ -1,0 +1,6 @@
+C:\Users\Antho\Desktop\Labs\Microsoft Press\VCSBS\Chapter 11\ParamsArray - Complete\ParamsArray\bin\Debug\ParamsArray.exe.config
+C:\Users\Antho\Desktop\Labs\Microsoft Press\VCSBS\Chapter 11\ParamsArray - Complete\ParamsArray\bin\Debug\ParamsArray.exe
+C:\Users\Antho\Desktop\Labs\Microsoft Press\VCSBS\Chapter 11\ParamsArray - Complete\ParamsArray\bin\Debug\ParamsArray.pdb
+C:\Users\Antho\Desktop\Labs\Microsoft Press\VCSBS\Chapter 11\ParamsArray - Complete\ParamsArray\obj\Debug\ParamsArray.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\Labs\Microsoft Press\VCSBS\Chapter 11\ParamsArray - Complete\ParamsArray\obj\Debug\ParamsArray.exe
+C:\Users\Antho\Desktop\Labs\Microsoft Press\VCSBS\Chapter 11\ParamsArray - Complete\ParamsArray\obj\Debug\ParamsArray.pdb

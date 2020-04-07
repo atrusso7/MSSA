@@ -1,0 +1,6 @@
+C:\Users\Antho\Desktop\Labs\Microsoft Press\VCSBS\Chapter 15\AutomaticProperties - Complete\AutomaticProperties\bin\Debug\AutomaticProperties.exe.config
+C:\Users\Antho\Desktop\Labs\Microsoft Press\VCSBS\Chapter 15\AutomaticProperties - Complete\AutomaticProperties\bin\Debug\AutomaticProperties.exe
+C:\Users\Antho\Desktop\Labs\Microsoft Press\VCSBS\Chapter 15\AutomaticProperties - Complete\AutomaticProperties\bin\Debug\AutomaticProperties.pdb
+C:\Users\Antho\Desktop\Labs\Microsoft Press\VCSBS\Chapter 15\AutomaticProperties - Complete\AutomaticProperties\obj\Debug\AutomaticProperties.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\Labs\Microsoft Press\VCSBS\Chapter 15\AutomaticProperties - Complete\AutomaticProperties\obj\Debug\AutomaticProperties.exe
+C:\Users\Antho\Desktop\Labs\Microsoft Press\VCSBS\Chapter 15\AutomaticProperties - Complete\AutomaticProperties\obj\Debug\AutomaticProperties.pdb
