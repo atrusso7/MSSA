@@ -38,11 +38,25 @@ namespace _26Mar_BookStore.Controllers
         {
             return View();
         }
-        // [HttpPost]
-        // public IActionResult AddBook(Book book)
-        // {
-        //     book.Author = Author;
-        // }
+        [HttpPost]
+        public IActionResult AddBook(Book book)
+        {
+            if (ModelState.IsValid)
+            {
+                Book item = new Book()
+                {
+                    BookID = _repo.GetAll().Max(x => x.BookID) + 1,
+                    Title = Request.Form["Title"],
+                    Author = Request.Form["Author"],
+                    PublishDate = Convert.ToInt32(Request.Form["PublishDate"]),
+                    Description = Request.Form["Description"],
+                    Price = Convert.ToInt32(Request.Form["Price"]),
+                    Image = Request.Form["Image"]
+                };
+                _repo.Add(item);
+            }
+            return RedirectToAction("Books");
+        }
         
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

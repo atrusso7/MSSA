@@ -1,0 +1,11 @@
+C:\Users\Antho\Desktop\MSSA\ISTA421\8Apr_Lamda\bin\Debug\netcoreapp3.1\8Apr_Lamda.exe
+C:\Users\Antho\Desktop\MSSA\ISTA421\8Apr_Lamda\bin\Debug\netcoreapp3.1\8Apr_Lamda.deps.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\8Apr_Lamda\bin\Debug\netcoreapp3.1\8Apr_Lamda.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\8Apr_Lamda\bin\Debug\netcoreapp3.1\8Apr_Lamda.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\8Apr_Lamda\bin\Debug\netcoreapp3.1\8Apr_Lamda.dll
+C:\Users\Antho\Desktop\MSSA\ISTA421\8Apr_Lamda\bin\Debug\netcoreapp3.1\8Apr_Lamda.pdb
+C:\Users\Antho\Desktop\MSSA\ISTA421\8Apr_Lamda\obj\Debug\netcoreapp3.1\8Apr_Lamda.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\8Apr_Lamda\obj\Debug\netcoreapp3.1\8Apr_Lamda.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\8Apr_Lamda\obj\Debug\netcoreapp3.1\8Apr_Lamda.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\ISTA421\8Apr_Lamda\obj\Debug\netcoreapp3.1\8Apr_Lamda.dll
+C:\Users\Antho\Desktop\MSSA\ISTA421\8Apr_Lamda\obj\Debug\netcoreapp3.1\8Apr_Lamda.pdb

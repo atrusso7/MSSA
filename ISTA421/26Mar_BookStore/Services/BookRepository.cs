@@ -7,10 +7,7 @@ namespace _26Mar_BookStore.Services
 {
     public class BookRepository : IRepository<Book>
     {
-        List<Book> BookList;
-        public BookRepository()
-        {
-            BookList = new List<Book>()
+        List<Book> BookList = new List<Book>()
             {
                 new Book()
                 {
@@ -43,30 +40,37 @@ namespace _26Mar_BookStore.Services
                 Image = "dune.jpg"
                 },
             };
-        }
         public bool Add(Book item)
+        {
+            try
             {
-                throw new System.NotImplementedException();
+                BookList.Add(item);
+                return true;
             }
+            catch
+            {
+                return false;
+            }
+        }
 
-            public bool Edit(Book item)
-            {
-                throw new System.NotImplementedException();
-            }
+        public bool Edit(Book item)
+        {
+            throw new System.NotImplementedException();
+        }
 
-            public Book Get(int id)
-            {
-                throw new System.NotImplementedException();
-            }
+        public Book Get(int id)
+        {
+            throw new System.NotImplementedException();
+        }
 
-            public IEnumerable<Book> GetAll()
-            {
-                return BookList;
-            }
+        public IEnumerable<Book> GetAll()
+        {
+            return BookList;
+        }
 
-            public bool Remove(Book item)
-            {
-                throw new System.NotImplementedException();
-            }
+        public bool Remove(Book item)
+        {
+            throw new System.NotImplementedException();
         }
     }
+}
