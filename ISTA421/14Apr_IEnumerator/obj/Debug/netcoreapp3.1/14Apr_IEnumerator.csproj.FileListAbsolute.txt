@@ -1,0 +1,13 @@
+C:\Users\Antho\Desktop\MSSA\ISTA421\14Apr_IEnumerator\bin\Debug\netcoreapp3.1\14Apr_IEnumerator.exe
+C:\Users\Antho\Desktop\MSSA\ISTA421\14Apr_IEnumerator\bin\Debug\netcoreapp3.1\14Apr_IEnumerator.deps.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\14Apr_IEnumerator\bin\Debug\netcoreapp3.1\14Apr_IEnumerator.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\14Apr_IEnumerator\bin\Debug\netcoreapp3.1\14Apr_IEnumerator.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\14Apr_IEnumerator\bin\Debug\netcoreapp3.1\14Apr_IEnumerator.dll
+C:\Users\Antho\Desktop\MSSA\ISTA421\14Apr_IEnumerator\bin\Debug\netcoreapp3.1\14Apr_IEnumerator.pdb
+C:\Users\Antho\Desktop\MSSA\ISTA421\14Apr_IEnumerator\obj\Debug\netcoreapp3.1\14Apr_IEnumerator.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\14Apr_IEnumerator\obj\Debug\netcoreapp3.1\14Apr_IEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\14Apr_IEnumerator\obj\Debug\netcoreapp3.1\14Apr_IEnumerator.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\14Apr_IEnumerator\obj\Debug\netcoreapp3.1\14Apr_IEnumerator.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\ISTA421\14Apr_IEnumerator\obj\Debug\netcoreapp3.1\14Apr_IEnumerator.dll
+C:\Users\Antho\Desktop\MSSA\ISTA421\14Apr_IEnumerator\obj\Debug\netcoreapp3.1\14Apr_IEnumerator.pdb
+C:\Users\Antho\Desktop\MSSA\ISTA421\14Apr_IEnumerator\obj\Debug\netcoreapp3.1\14Apr_IEnumerator.genruntimeconfig.cache

@@ -1,8 +1,11 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
+using Microsoft.AspNetCore.Mvc;
 using Moq;
 using SportsStore2.Controllers;
 using SportsStore2.Models;
+using SportsStore2.Models.ViewModels;
 using Xunit;
 namespace SportsStore2.Tests
 {

@@ -1,10 +1,14 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using Microsoft.AspNetCore.Components;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.AspNetCore.Mvc.ViewComponents;
 using Moq;
 using SportsStore2.Components;
 using SportsStore2.Models;
 using Xunit;
+using RouteData = Microsoft.AspNetCore.Routing.RouteData;
+
 namespace SportsStore2.Tests
 {
     public class NavigationMenuViewComponentTests

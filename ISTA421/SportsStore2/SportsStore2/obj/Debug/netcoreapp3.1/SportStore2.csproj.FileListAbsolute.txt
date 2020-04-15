@@ -115,7 +115,6 @@ C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\bin\Debug\netcorea
 C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\SportStore2.csprojAssemblyReference.cache
 C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\staticwebassets\SportStore2.StaticWebAssets.Manifest.cache
 C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\staticwebassets\SportStore2.StaticWebAssets.xml
 C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\SportStore2.MvcApplicationPartsAssemblyInfo.cache
@@ -128,7 +127,9 @@ C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcorea
 C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\SportStore2.RazorCoreGenerate.cache
 C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
 C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\Razor\Views\Home\List.cshtml.g.cs
+C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
 C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
 C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
 C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
 C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -140,3 +141,9 @@ C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcorea
 C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\SportStore2.csproj.CopyComplete
 C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\SportStore2.dll
 C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\SportStore2.pdb
+C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\SportStore2.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\SportStore2.csproj.CoreCompileInputs.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\SportStore2.genruntimeconfig.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\Razor\Views\Order\Completed.cshtml.g.cs
+C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Antho\Desktop\MSSA\ISTA421\SportsStore2\SportsStore2\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs

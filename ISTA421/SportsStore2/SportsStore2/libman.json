@@ -5,6 +5,25 @@
     {
       "library": "twitter-bootstrap@4.0.0-alpha.6",
       "destination": "WWWRoot/lib"
+    },
+    {
+      "library": "font-awesome@5.13.0",
+      "destination": "WWWRoot/lib/font-awesome/"
     }
-  ]
+  ,
+{
+  "library": "twitter-bootstrap@4.4.0",
+  "destination": "WWWRoot/lib/twitter-bootstrap/"
+}
+,
+{
+  "library": "twitter-bootstrap@4.0.0-alpha.6",
+  "destination": "WWWRoot/lib/twitter-bootstrap/"
+}
+,
+{
+  "library": "twitter-bootstrap@4.4.0",
+  "destination": "WWWRoot/lib/twitter-bootstrap/"
+}
+]
 }

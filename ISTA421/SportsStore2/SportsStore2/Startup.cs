@@ -1,18 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
-using SportsStore2;
-using SportsStore2.Models;
-using Microsoft.Extensions.Configuration;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Identity;
-
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using SportsStore2.Models;
 
 namespace SportsStore2
 {
@@ -22,6 +14,7 @@ namespace SportsStore2
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public Startup(IConfiguration configuration) =>
              Configuration = configuration;
+
         public IConfiguration Configuration { get; }
 
         public void ConfigureServices(IServiceCollection services)
@@ -29,8 +22,10 @@ namespace SportsStore2
             services.AddDbContext<ApplicationDBContext>(options =>
             options.UseSqlServer(
                 Configuration["Data:SportsStoreProducts:ConnectionString"]));
-
             services.AddTransient<IProductRepository, EFProductRepository>();
+            services.AddScoped<Cart>(sp => SessionCart.GetCart(sp));
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+            services.AddTransient<IOrderRepository, EFOrderRepository>();
             services.AddMvc(option => option.EnableEndpointRouting = false);
             services.AddMemoryCache();
             services.AddSession();
@@ -66,7 +61,8 @@ namespace SportsStore2
             //        name: "default",
             //        template: "{controller=Product}/{action=List}/{id?}");
             //});
-            app.UseMvc(routes => {
+            app.UseMvc(routes =>
+            {
                 routes.MapRoute(
                     name: null,
                     template: "{category}/Page{productPage:int}",
