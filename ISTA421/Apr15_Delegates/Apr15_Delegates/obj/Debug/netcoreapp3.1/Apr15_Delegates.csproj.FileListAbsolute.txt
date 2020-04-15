@@ -1,0 +1,13 @@
+C:\Users\Antho\Desktop\MSSA\ISTA421\Apr15_Delegates\Apr15_Delegates\bin\Debug\netcoreapp3.1\Apr15_Delegates.exe
+C:\Users\Antho\Desktop\MSSA\ISTA421\Apr15_Delegates\Apr15_Delegates\bin\Debug\netcoreapp3.1\Apr15_Delegates.deps.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\Apr15_Delegates\Apr15_Delegates\bin\Debug\netcoreapp3.1\Apr15_Delegates.runtimeconfig.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\Apr15_Delegates\Apr15_Delegates\bin\Debug\netcoreapp3.1\Apr15_Delegates.runtimeconfig.dev.json
+C:\Users\Antho\Desktop\MSSA\ISTA421\Apr15_Delegates\Apr15_Delegates\bin\Debug\netcoreapp3.1\Apr15_Delegates.dll
+C:\Users\Antho\Desktop\MSSA\ISTA421\Apr15_Delegates\Apr15_Delegates\bin\Debug\netcoreapp3.1\Apr15_Delegates.pdb
+C:\Users\Antho\Desktop\MSSA\ISTA421\Apr15_Delegates\Apr15_Delegates\obj\Debug\netcoreapp3.1\Apr15_Delegates.csprojAssemblyReference.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\Apr15_Delegates\Apr15_Delegates\obj\Debug\netcoreapp3.1\Apr15_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\Apr15_Delegates\Apr15_Delegates\obj\Debug\netcoreapp3.1\Apr15_Delegates.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\MSSA\ISTA421\Apr15_Delegates\Apr15_Delegates\obj\Debug\netcoreapp3.1\Apr15_Delegates.AssemblyInfo.cs
+C:\Users\Antho\Desktop\MSSA\ISTA421\Apr15_Delegates\Apr15_Delegates\obj\Debug\netcoreapp3.1\Apr15_Delegates.dll
+C:\Users\Antho\Desktop\MSSA\ISTA421\Apr15_Delegates\Apr15_Delegates\obj\Debug\netcoreapp3.1\Apr15_Delegates.pdb
+C:\Users\Antho\Desktop\MSSA\ISTA421\Apr15_Delegates\Apr15_Delegates\obj\Debug\netcoreapp3.1\Apr15_Delegates.genruntimeconfig.cache
